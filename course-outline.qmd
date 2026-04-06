@@ -1,0 +1,28 @@
+---
+title: "Select teachings from the Gospel of John"
+format:
+  revealjs:
+    theme: default
+    css: course-outline.css
+    slide-number: true
+    center: false
+    margin: 0.05
+---
+
+```{=html}
+<section class="slide level2">
+<h2>Course Outline</h2>
+
+<div class="lv-a"><a href="preamble/preamble.html">Preamble: Teaching Style and Philosophy</a></div>
+<div class="lv-a"><a href="01-Intro/introduction.html">1. Introduction</a></div>
+<div class="lv-a"><a href="02 - Jesus as God/jesus-as-god.html">2. Jesus as God</a> <span class="verse-ref">(1–3, 14)</span></div>
+<div class="lv-a"><a href="03 - Jesus in Creation/jesus-in-creation.html">3. Jesus in Creation</a></div>
+<div class="lv-a"><a href="04 - Jesus aa life and light/jesus-life-light.html">4. Jesus as Life and Light of Men</a></div>
+<div class="lv-a"><a href="05 - Jesus in Salvation/jesus-in-salvation.html">5. Jesus in Salvation — New Birth</a></div>
+<div class="lv-a"><a href="05 - Jesus grace truth and the law/grace-truth-law.html">6. Jesus: Grace and Truth vs. Moses and the Law</a></div>
+<div class="lv-a"><a href="06 - Jesus and the Holy Spirit/holy-spirit.html">7. Jesus Baptizes with the Holy Spirit</a></div>
+<div class="lv-a"><a href="07 - Jesus the Only way to the Father/only-way.html">8. Jesus: The Only Way to the Father</a></div>
+<div class="lv-a"><a href="08 - Jesus priestly prayer/priestly-prayer.html">9. Jesus' Priestly Prayer</a></div>
+
+</section>
+```

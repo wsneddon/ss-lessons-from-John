@@ -1,0 +1,41 @@
+{
+  "course-outline.qmd": {
+    "course-outline.html": "e17218a2"
+  },
+  "01-Intro/introduction.qmd": {
+    "introduction.html": "926bc5c0"
+  },
+  "02 - Jesus as God/jesus-as-god.qmd": {
+    "jesus-as-god.html": "d849143c"
+  },
+  "john-presentation.qmd": {
+    "john-presentation.html": "f1f1f54e"
+  },
+  "05 - Jesus in Salvation/jesus-in-salvation.qmd": {
+    "jesus-in-salvation.html": "f2327837"
+  },
+  "06 - Jesus and the Holy Spirit/holy-spirit.qmd": {
+    "holy-spirit.html": "8f2d9c17"
+  },
+  "03 - Jesus in Creation/jesus-in-creation.qmd": {
+    "jesus-in-creation.html": "181e0deb"
+  },
+  "07 - Jesus the Only way to the Father/only-way.qmd": {
+    "only-way.html": "860a15c9"
+  },
+  "04 - Jesus aa life and light/jesus-life-light.qmd": {
+    "jesus-life-light.html": "02f59f2a"
+  },
+  "05 - Jesus grace truth and the law/grace-truth-law.qmd": {
+    "grace-truth-law.html": "daf9ea5d"
+  },
+  "08 - Jesus priestly prayer/priestly-prayer.qmd": {
+    "priestly-prayer.html": "53d7cfa8"
+  },
+  "index.qmd": {
+    "index.html": "b8e3c590"
+  },
+  "preamble/preamble.qmd": {
+    "preamble.html": "cf6ca908"
+  }
+}

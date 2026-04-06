@@ -1,0 +1,126 @@
+.reveal .slides section {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+/* Title slide */
+.reveal .title {
+  color: #4a7099 !important;
+}
+
+.reveal .slides section h2 {
+  margin-top: 0 !important;
+  margin-bottom: 0.3em !important;
+  color: #4a7099 !important;
+}
+
+.reveal details {
+  margin-bottom: 0.15em !important;
+}
+
+.reveal details summary {
+  font-size: 1em !important;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 0.1em;
+  color: #4a7099 !important;
+}
+
+/* Outline levels — work inside and outside <details> */
+.reveal .lv-a {
+  font-size: 0.82em !important;
+  margin-left: 30px !important;
+  font-weight: bold !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+.reveal .lv-a-gap {
+  font-size: 0.82em !important;
+  margin-left: 30px !important;
+  margin-top: 0.5em !important;
+  font-weight: bold !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+.reveal .lv-1 {
+  font-size: 0.76em !important;
+  margin-left: 60px !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+.reveal .lv-lc {
+  font-size: 0.70em !important;
+  margin-left: 90px !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+.reveal .lv-lc-italic {
+  font-size: 0.70em !important;
+  margin-left: 90px !important;
+  font-style: italic !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+/* Sub-detail level — indented further, smaller font */
+.reveal .lv-detail {
+  font-size: 0.66em !important;
+  margin-left: 120px !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+/* Number items with gap above */
+.reveal .lv-1-gap {
+  font-size: 0.76em !important;
+  margin-left: 60px !important;
+  margin-top: 0.4em !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}
+
+.reveal .lesson-link {
+  font-size: 0.78em !important;
+  margin-left: 30px !important;
+  margin-bottom: 0.3em !important;
+  font-style: italic !important;
+}
+
+/* Bulleted item with hanging indent for text wrap */
+.reveal .lv-bullet {
+  font-size: 0.82em !important;
+  margin-left: 30px !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
+  line-height: 1.6 !important;
+  padding-bottom: 0 !important;
+}
+
+.reveal .lv-bullet::before {
+  content: "• ";
+}
+
+/* Verse/scripture reference notation */
+.reveal .verse-ref {
+  font-size: 0.75em !important;
+  color: #5b9bd5 !important;
+  font-style: normal !important;
+}
+
+/* Footer back link */
+.reveal .footer a {
+  font-size: 1.4em !important;
+  font-weight: bold !important;
+}
+
+.reveal .placeholder {
+  font-size: 0.82em !important;
+  margin-left: 30px !important;
+  font-style: italic !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+}

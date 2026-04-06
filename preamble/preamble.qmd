@@ -1,0 +1,20 @@
+---
+format:
+  revealjs:
+    theme: default
+    css: ../course-outline.css
+    slide-number: true
+    center: false
+    margin: 0.05
+    footer: "<a href='javascript:history.back()'>← Back</a>"
+---
+
+```{=html}
+<section class="slide level2">
+<h2>Preamble: Teaching Style and Philosophy</h2>
+<div class="lv-bullet">Encourage questions and discussion</div>
+<div class="lv-bullet">Uses John as a starting point, but explores themes across all of Scripture</div>
+<div class="lv-bullet">Prioritizes depth over coverage—no expectation to finish all material</div>
+<div class="lv-bullet">Sign up sheet for get materials</div>
+</section>
+```

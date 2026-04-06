@@ -1,0 +1,135 @@
+---
+format:
+  revealjs:
+    theme: default
+    css: ../course-outline.css
+    slide-number: true
+    center: false
+    margin: 0.05
+    scrollable: true
+    footer: "<a href='javascript:history.back()'>← Back</a>"
+---
+
+```{=html}
+<section class="slide level2">
+  <h2>I. Introduction</h2>
+  <details>
+    <summary>
+      <strong>A. Overview — Watch Video</strong>
+    </summary>
+    <div class="lv-1">1. Bible Project — The Book of John</div>
+    <div class="lv-lc">a. 
+      <a href="https://bibleproject.com/guides/book-of-john/" target="_blank">bibleproject.com/guides/book-of-john/</a></div>
+  </details>
+  <details>
+    <summary>
+      <strong>B. The Book</strong>
+    </summary>
+    <div class="lv-1">1. Authorship and Date</div>
+    <div class="lv-lc">a. 
+      <strong>Church Fathers' Views</strong>
+      (2nd–4th centuries AD) — unanimous attribution to John the Apostle</div>
+    <div class="lv-detail">— Written in Ephesus late in John's life, after the Synoptic Gospels had circulated</div>
+    <div class="lv-detail">— Often called a &quot;spiritual Gospel&quot; emphasizing deeper theological truths</div>
+    <div class="lv-detail">— Irenaeus (c. 180 AD, disciple of Polycarp who knew the apostles): &quot;John, the disciple of the Lord… did himself publish a Gospel during his residence at Ephesus in Asia&quot;</div>
+    <div class="lv-detail">— Clement of Alexandria (c. 215 AD): urged by friends and inspired by the Spirit to write a &quot;spiritual Gospel&quot; after his oral ministry in Asia</div>
+    <div class="lv-detail">— Origen (c. 185–254 AD) and Eusebius (c. 260–340 AD): both affirmed apostolic authorship; listed as undisputed in the church canon</div>
+    <div class="lv-detail">— Also attested by Tertullian, the Muratorian Canon, and Justin Martyr</div>
+    <div class="lv-detail">— Small dissenting group (the Alogi) rejected it for theological reasons — not the mainstream view</div>
+    <div class="lv-lc">b. 
+      <strong>Modern Scholarly Views on Authorship</strong></div>
+    <div class="lv-detail">— The Gospel is formally anonymous — never names its author</div>
+    <div class="lv-detail">— Refers to the &quot;disciple whom Jesus loved&quot; as source of testimony (John 19:35; 21:24)</div>
+    <div class="lv-detail">— Majority consensus: not directly authored by John the Apostle; product of a Johannine community or &quot;school&quot;</div>
+    <div class="lv-detail">— Reasons: sophisticated Greek style, strong Judean focus, distinct theology vs. Synoptics</div>
+    <div class="lv-detail">— The Beloved Disciple was a real historical figure; exact identity unknown (candidates: John, Lazarus, a Jerusalem priest)</div>
+    <div class="lv-detail">— Minority/traditionalist view: Leon Morris, John A.T. Robinson, Richard Bauckham support direct or close connection to John the Apostle</div>
+    <div class="lv-lc">c. 
+      <strong>Modern Scholarly Views on Date</strong></div>
+    <div class="lv-detail">— Broad consensus: c. 90–100 AD — latest of the four canonical Gospels, likely composed in Ephesus</div>
+    <div class="lv-detail">— Earliest manuscript (P52) dated c. 125–150 AD sets the upper limit</div>
+    <div class="lv-detail">— Gnostic writers like Heracleon commented on it by the mid-2nd century</div>
+    <div class="lv-detail">— Minority: some conservatives (Robinson, Wright, Bauckham) argue pre-70 AD based on detailed Jerusalem topography and no explicit reference to Temple's fall</div>
+    <div class="lv-1-gap">2. Stated Purpose</div>
+    <div class="lv-lc-italic">a. John 20:31 — &quot;…but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.&quot;</div>
+    <div class="lv-1-gap">3. Distinctives of John</div>
+    <div class="lv-lc">a. ~80–90% of content is unique — not found in Matthew, Mark, or Luke</div>
+    <div class="lv-lc">b. Seven &quot;I AM&quot; Statements</div>
+    <div class="lv-detail">1) John 6:35 — &quot;I am the bread of life&quot;</div>
+    <div class="lv-detail">2) John 8:12 — &quot;I am the light of the world&quot;</div>
+    <div class="lv-detail">3) John 10:7,9 — &quot;I am the door/gate&quot;</div>
+    <div class="lv-detail">4) John 10:11,14 — &quot;I am the good shepherd&quot;</div>
+    <div class="lv-detail">5) John 11:25 — &quot;I am the resurrection and the life&quot;</div>
+    <div class="lv-detail">6) John 14:6 — &quot;I am the way, the truth, and the life&quot;</div>
+    <div class="lv-detail">7) John 15:1,5 — &quot;I am the true vine&quot;</div>
+    <div class="lv-lc">c. Seven Signs</div>
+    <div class="lv-detail">1) John 2:1–11 — Water into wine (Cana)</div>
+    <div class="lv-detail">2) John 4:43–54 — Healing of the official's son</div>
+    <div class="lv-detail">3) John 5:1–15 — Healing at the pool of Bethesda</div>
+    <div class="lv-detail">4) John 6:1–14 — Feeding of the five thousand</div>
+    <div class="lv-detail">5) John 6:16–21 — Jesus walking on water</div>
+    <div class="lv-detail">6) John 9:1–41 — Healing of the man born blind</div>
+    <div class="lv-detail">7) John 11:1–44 — Raising of Lazarus</div>
+    <div class="lv-lc">d. Seven Titles of Jesus in John 1</div>
+    <div class="lv-detail">1) Lamb of God — John 1:29 (declared by John the Baptist)</div>
+    <div class="lv-detail">2) Rabbi / Teacher — John 1:38 (used by the first disciples)</div>
+    <div class="lv-detail">3) Messiah / Christ — John 1:41 (proclaimed by Andrew)</div>
+    <div class="lv-detail">4) Jesus of Nazareth — John 1:45 (identified by Philip)</div>
+    <div class="lv-detail">5) Son of God — John 1:49 (confessed by Nathanael)</div>
+    <div class="lv-detail">6) King of Israel — John 1:49 (also confessed by Nathanael)</div>
+    <div class="lv-detail">7) Son of Man — John 1:51 (Jesus' own self-designation)</div>
+  </details>
+  <details>
+    <summary>
+      <strong>C. About the Author</strong>
+    </summary>
+    <div class="lv-1">1. Life of John</div>
+    <div class="lv-lc">a. Born c. AD 6–15, Galilee (likely Bethsaida or Capernaum) son of Zebedee and Salome brother of James the apostle</div>
+    <div class="lv-lc">b. Called among the first disciples; inner circle with Peter and James</div>
+    <div class="lv-lc">c. The &quot;Beloved Disciple&quot; — remained at the crucifixion; entrusted with Mary's care</div>
+    <div class="lv-lc">d. Pillar of the Jerusalem church (Galatians 2:9); founded churches in Asia Minor</div>
+    <div class="lv-lc">e. Exiled to Patmos under Emperor Domitian (c. AD 95) — wrote Revelation there</div>
+    <div class="lv-lc">f. Released under Nerva (AD 96–98); returned to Ephesus</div>
+    <div class="lv-lc">g. Died naturally in Ephesus c. AD 100 — only apostle not martyred </div>
+    <div class="lv-1-gap">2. Christian Tradition</div>
+    <div class="lv-lc">a. Attributed authorship: Gospel of John, 1–3 John, Revelation</div>
+    <div class="lv-lc">b. Known for teaching: 
+      <em>&quot;Little children, love one another&quot;</em>
+      (Jerome)</div>
+    <div class="lv-lc">c. Plunged into boiling oil in Rome under Domitian — emerged unharmed; then exiled to Patmos</div>
+    <div class="lv-detail">— Earliest written reference: Tertullian (c. 200 AD), who mentions it as a well-known miracle</div>
+    <div class="lv-lc">d. Fled Ephesian bathhouse on seeing the heretic Cerinthus</div>
+    <div class="lv-lc">e. Disciple chain: John → Polycarp → Irenaeus — key line of apostolic tradition</div>
+    <div class="lv-1-gap">3. John in the Gospels and Acts</div>
+    <div class="lv-lc">a. Early Ministry</div>
+    <div class="lv-detail">— Called by the Sea of Galilee with brother James (Matt 4:21–22; Mark 1:19–20; Luke 5:10)</div>
+    <div class="lv-detail">— Named &quot;Sons of Thunder&quot; (Boanerges) by Jesus (Mark 3:17)</div>
+    <div class="lv-detail">— Inner circle witness to raising of Jairus' daughter (Mark 5:37; Luke 8:51)</div>
+    <div class="lv-detail">— Sent out with the Twelve (Matt 10; Mark 6:7; Luke 9:1)</div>
+    <div class="lv-detail">— Asked to call down fire on a Samaritan village; Jesus rebukes him (Luke 9:51–56)</div>
+    <div class="lv-lc">b. Mid-Ministry</div>
+    <div class="lv-detail">— Witnesses the Transfiguration with Peter and James (Matt 17:1–9; Mark 9:2–10; Luke 9:28–36)</div>
+    <div class="lv-detail">— Reports stopping an unauthorized exorcist; Jesus corrects him (Luke 9:49–50)</div>
+    <div class="lv-detail">— Requests seats of honor in Christ's kingdom (Matt 20:20–28; Mark 10:35–45)</div>
+    <div class="lv-lc">c. Passion Week</div>
+    <div class="lv-detail">— Sent with Peter to prepare the Passover meal (Luke 22:8)</div>
+    <div class="lv-detail">— The &quot;Beloved Disciple&quot; reclining next to Jesus at the Last Supper (John 13:23–25)</div>
+    <div class="lv-detail">— Among the three in Gethsemane during Jesus' agony (Matt 26:36–37; Mark 14:32–33)</div>
+    <div class="lv-detail">— Gains access to the high priest's courtyard during Jesus' trial (John 18:15–16)</div>
+    <div class="lv-detail">— Present at the cross; Jesus entrusts Mary to his care (John 19:25–27)</div>
+    <div class="lv-lc">d. Resurrection Events</div>
+    <div class="lv-detail">— Runs with Peter to the empty tomb and believes (John 20:2–8)</div>
+    <div class="lv-detail">— First to recognize the risen Jesus by the Sea of Galilee (John 21:7)</div>
+    <div class="lv-lc">e. In the Book of Acts</div>
+    <div class="lv-detail">— Listed among apostles waiting in the Upper Room (Acts 1:13)</div>
+    <div class="lv-detail">— Accompanies Peter in healing the lame man at the Temple (Acts 3:1–11)</div>
+    <div class="lv-detail">— Stands boldly with Peter before the Sanhedrin (Acts 4:1–22)</div>
+    <div class="lv-detail">— Lays hands on new Samaritan believers with Peter (Acts 8:14–17)</div>
+    <div class="lv-lc">f. Summary</div>
+    <div class="lv-detail">— Consistently part of the inner circle (Peter, James, John)</div>
+    <div class="lv-detail">— Present at key revelation moments: Transfiguration and Resurrection</div>
+    <div class="lv-detail">— Witness to the full Passion narrative</div>
+    <div class="lv-detail">— Early leader in the Jerusalem church</div>
+  </details>
+</section>
+```

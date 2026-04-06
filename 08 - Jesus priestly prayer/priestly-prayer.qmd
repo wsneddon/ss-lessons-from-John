@@ -1,0 +1,17 @@
+---
+format:
+  revealjs:
+    theme: default
+    css: ../course-outline.css
+    slide-number: true
+    center: false
+    margin: 0.05
+    footer: "<a href='javascript:history.back()'>← Back</a>"
+---
+
+```{=html}
+<section class="slide level2">
+<h2>IX. Jesus' Priestly Prayer</h2>
+<div class="placeholder">(Content to be developed)</div>
+</section>
+```
