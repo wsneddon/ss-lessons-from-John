@@ -74,6 +74,26 @@
   padding: 0 !important;
 }
 
+/* summary used as numbered point heading */
+.reveal summary.lv-1 {
+  font-size: 0.76em !important;
+  margin-left: 60px !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+  font-weight: normal;
+  color: inherit !important;
+}
+
+.reveal summary.lv-1-gap {
+  font-size: 0.76em !important;
+  margin-left: 60px !important;
+  margin-top: 0.4em !important;
+  line-height: 1.6 !important;
+  padding: 0 !important;
+  font-weight: normal;
+  color: inherit !important;
+}
+
 /* Number items with gap above */
 .reveal .lv-1-gap {
   font-size: 0.76em !important;
