@@ -21,8 +21,7 @@ format:
 <div class="lv-a"><a href="05 - Jesus in Salvation/jesus-in-salvation.html">5. Jesus in Salvation — New Birth</a></div>
 <div class="lv-a"><a href="05 - Jesus grace truth and the law/grace-truth-law.html">6. Jesus: Grace and Truth vs. Moses and the Law</a></div>
 <div class="lv-a"><a href="06 - Jesus and the Holy Spirit/holy-spirit.html">7. Jesus Baptizes with the Holy Spirit</a></div>
-<div class="lv-a"><a href="07 - Jesus the Only way to the Father/only-way.html">8. Jesus: The Only Way to the Father</a></div>
-<div class="lv-a"><a href="08 - Jesus priestly prayer/priestly-prayer.html">9. Jesus' Priestly Prayer</a></div>
+<div class="lv-a"><a href="08 - Jesus priestly prayer/priestly-prayer.html">8. Jesus' Priestly Prayer</a></div>
 
 </section>
 ```
