@@ -18,8 +18,9 @@ format:
     <summary><strong>A. Overview — Watch Video</strong></summary>
     <details>
       <summary class="lv-1">1. Bible Project — The Book of John</summary>
-      <div class="lv-lc">a. <a href="https://bibleproject.com/guides/book-of-john/" target="_blank">bibleproject.com/guides/book-of-john 1-12/</a></div>
-      <div class="lv-lc">a. <a href="https://bibleproject.com/videos/john-13-21/" target="_blank">bibleproject.com/guides/book-of-john 13-21/</a></div>
+      <div class="lv-lc">a. <a href="https://www.youtube.com/watch?v=wk4zVZq6Ojw&list=RDwk4zVZq6Ojw&start_radio=1"target="_blank" > Song Jesus Name above all names </div>
+      <div class="lv-lc">b. <a href="https://bibleproject.com/guides/book-of-john/" target="_blank">bibleproject.com/guides/book-of-john 1-12/</a></div>
+      <div class="lv-lc">c. <a href="https://bibleproject.com/videos/john-13-21/" target="_blank">bibleproject.com/guides/book-of-john 13-21/</a></div>
     </details>
   </details>
 
