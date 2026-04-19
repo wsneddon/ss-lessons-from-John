@@ -5,30 +5,18 @@ format:
   revealjs:
     preview-links: false
     scrollable: true
+  pdf: default
 
 render:
   - index.qmd
   - course-outline.qmd
   - preamble/preamble.qmd
-  - preamble/preamble-notes.qmd
   - 01-Intro/introduction.qmd
-  - 01-Intro/introduction-notes.qmd
   - "02 - Jesus as God/jesus-as-god.qmd"
-  - "02 - Jesus as God/jesus-as-god-notes.qmd"
   - "03 - Jesus in Creation/jesus-in-creation.qmd"
-  - "03 - Jesus in Creation/jesus-in-creation-notes.qmd"
-  - "03 - Jesus in Creation/jesus-in-creation_files/Jesus in Creation.md"
-  - "03 - Jesus in Creation/jesus-in-creation_files/six day creation.md"
-  - "03 - Jesus in Creation/jesus-in-creation_files/people in the beginning.md"
   - "04 - Jesus aa life and light/jesus-life-light.qmd"
-  - "04 - Jesus aa life and light/jesus-life-light-notes.qmd"
   - "05 - Jesus in Salvation/jesus-in-salvation.qmd"
-  - "05 - Jesus in Salvation/jesus-in-salvation-notes.qmd"
   - "05 - Jesus grace truth and the law/grace-truth-law.qmd"
-  - "05 - Jesus grace truth and the law/grace-truth-law-notes.qmd"
   - "06 - Jesus and the Holy Spirit/holy-spirit.qmd"
-  - "06 - Jesus and the Holy Spirit/holy-spirit-notes.qmd"
   - "07 - Jesus the Only way to the Father/only-way.qmd"
-  - "07 - Jesus the Only way to the Father/only-way-notes.qmd"
   - "08 - Jesus priestly prayer/priestly-prayer.qmd"
-  - "08 - Jesus priestly prayer/priestly-prayer-notes.qmd"
