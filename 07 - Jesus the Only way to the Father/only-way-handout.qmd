@@ -1,0 +1,16 @@
+---
+title: "VIII. Jesus: The Only Way to the Father"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# VIII. Jesus: The Only Way to the Father
+
+(Content to be developed)
+

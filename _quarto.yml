@@ -5,7 +5,6 @@ format:
   revealjs:
     preview-links: false
     scrollable: true
-  pdf: default
 
 render:
   - index.qmd
@@ -20,3 +19,12 @@ render:
   - "06 - Jesus and the Holy Spirit/holy-spirit.qmd"
   - "07 - Jesus the Only way to the Father/only-way.qmd"
   - "08 - Jesus priestly prayer/priestly-prayer.qmd"
+  - 01-Intro/introduction-handout.qmd
+  - "02 - Jesus as God/jesus-as-god-handout.qmd"
+  - "03 - Jesus in Creation/jesus-in-creation-handout.qmd"
+  - "04 - Jesus aa life and light/jesus-life-light-handout.qmd"
+  - "05 - Jesus in Salvation/jesus-in-salvation-handout.qmd"
+  - "05 - Jesus grace truth and the law/grace-truth-law-handout.qmd"
+  - "06 - Jesus and the Holy Spirit/holy-spirit-handout.qmd"
+  - "07 - Jesus the Only way to the Father/only-way-handout.qmd"
+  - "08 - Jesus priestly prayer/priestly-prayer-handout.qmd"

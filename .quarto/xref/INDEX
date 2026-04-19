@@ -84,9 +84,14 @@
     "priestly-prayer-notes.html": "6c7e8a9b"
   },
   "06 - Jesus and the Holy Spirit/holy-spirit_files/John distinctive HS.md": {
-    "John distinctive HS.html": "7ceaaf7c"
+    "John distinctive HS.html": "7ceaaf7c",
+    "John-distinctive-HS.tex": "6c06a80f"
   },
   "01-Intro/introduction_files/John7Missing.md": {
-    "John7Missing.html": "607ae51e"
+    "John7Missing.html": "607ae51e",
+    "John7Missing.tex": "f77c8a2a"
+  },
+  "01-Intro/introduction-handout.qmd": {
+    "introduction-handout.tex": "d145c74c"
   }
 }

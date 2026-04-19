@@ -1,0 +1,16 @@
+---
+title: "V. Jesus in Salvation — New Birth"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# V. Jesus in Salvation — New Birth
+
+(Content to be developed)
+

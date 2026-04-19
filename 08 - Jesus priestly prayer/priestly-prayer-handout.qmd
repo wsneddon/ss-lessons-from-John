@@ -1,0 +1,16 @@
+---
+title: "IX. Jesus' Priestly Prayer"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# IX. Jesus' Priestly Prayer
+
+(Content to be developed)
+

@@ -1,0 +1,16 @@
+---
+title: "VI. Jesus: Grace and Truth vs. Moses and the Law"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# VI. Jesus: Grace and Truth vs. Moses and the Law
+
+(Content to be developed)
+

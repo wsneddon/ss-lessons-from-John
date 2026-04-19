@@ -1,0 +1,16 @@
+---
+title: "IV. Jesus as Life and Light of Men"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# IV. Jesus as Life and Light of Men
+
+(Content to be developed)
+

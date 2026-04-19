@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Quarto generated output
+*.html
+*_files/
+.quarto/
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Generated PDFs
+*-handout.pdf
+
+# Temp Office lock files
+~$*

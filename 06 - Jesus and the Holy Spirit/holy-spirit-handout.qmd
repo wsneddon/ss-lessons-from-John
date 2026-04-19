@@ -1,0 +1,16 @@
+---
+title: "VII. Jesus Baptizes with the Holy Spirit"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# VII. Jesus Baptizes with the Holy Spirit
+
+(Content to be developed)
+
