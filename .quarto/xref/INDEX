@@ -93,5 +93,59 @@
   },
   "01-Intro/introduction-handout.qmd": {
     "introduction-handout.tex": "d145c74c"
+  },
+  "05 - Jesus in Salvation/jesus-in-salvation-handout.qmd": {
+    "jesus-in-salvation-handout.tex": "01e15a69"
+  },
+  "06 - Jesus and the Holy Spirit/holy-spirit-handout.qmd": {
+    "holy-spirit-handout.tex": "91eaf5c4"
+  },
+  "03 - Jesus in Creation/jesus-in-creation-handout.qmd": {
+    "jesus-in-creation-handout.tex": "0a019a6c"
+  },
+  "07 - Jesus the Only way to the Father/only-way-handout.qmd": {
+    "only-way-handout.tex": "db6632f8"
+  },
+  "04 - Jesus aa life and light/jesus-life-light-handout.qmd": {
+    "jesus-life-light-handout.tex": "844f5419"
+  },
+  "02 - Jesus as God/jesus-as-god-handout.qmd": {
+    "jesus-as-god-handout.tex": "24753740"
+  },
+  "05 - Jesus grace truth and the law/grace-truth-law-handout.qmd": {
+    "grace-truth-law-handout.tex": "5b294ec0"
+  },
+  "08 - Jesus priestly prayer/priestly-prayer-handout.qmd": {
+    "priestly-prayer-handout.tex": "e62429ac"
+  },
+  "03 - Jesus in Creation/christians Age of the Earth.md": {
+    "christians Age of the Earth.html": "49f5e2f8"
+  },
+  "02 - Jesus as God/seedOfaWoman.md": {
+    "seedOfaWoman.html": "29fe0170"
+  },
+  "02 - Jesus as God/1John4.1 implications.md": {
+    "1John4.1 implications.html": "cc3ddacd"
+  },
+  "04 - Jesus aa life and light/chat.md": {
+    "chat.html": "74ff3a18"
+  },
+  "04 - Jesus aa life and light/grok.md": {
+    "grok.html": "9ed8f23e"
+  },
+  "04 - Jesus aa life and light/light-and-life.md": {
+    "light-and-life.html": "976b8fb8"
+  },
+  "03 - Jesus in Creation/GodsHonesty.md": {
+    "GodsHonesty.html": "1ce7d6ec"
+  },
+  "03 - Jesus in Creation/youngEarth.md": {
+    "youngEarth.html": "5a3047b1"
+  },
+  "03 - Jesus in Creation/jesus-in-creation_files/GapTheory.md": {
+    "GapTheory.html": "9e1676ee"
+  },
+  "03 - Jesus in Creation/james saves.md": {
+    "james saves.html": "3760e9da"
   }
 }

@@ -12,6 +12,188 @@ format:
 ```{=html}
 <section class="slide level2">
 <h2>IV. Jesus as Life and Light of Men</h2>
-<div class="placeholder">(Content to be developed)</div>
+
+<div class="lv-a"><a href="#" target="_blank">Opening Song</a></div>
+<div class="lv-a"><a href="#" target="_blank">Overview Video</a></div>
+
+<details>
+<summary><strong>Opening Passage — John 1:1–5</strong></summary>
+<div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=John+1%3A1-5&version=WEB" target="_blank">John 1:1–5</a> — "In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it."</div>
+</details>
+
+<details>
+<summary><strong>A. Key Greek and Hebrew Words</strong></summary>
+
+  <details>
+  <summary class="lv-1">Old Testament (Hebrew)</summary>
+    <details>
+      <summary class="lv-lc">1. Light — אוֹר (<em>ʾôr</em>)</summary>
+      <div class="lv-detail">— Illumination, guidance, joy, salvation, and God's presence</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=WEB" target="_blank">Genesis 1:3</a> — "Let there be light"; <a href="https://www.biblegateway.com/passage/?search=Psalm+27%3A1&version=WEB" target="_blank">Psalm 27:1</a> — "The LORD is my light"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">2. Life — חַיִּים (<em>ḥayyîm</em>)</summary>
+      <div class="lv-detail">— Vitality, full and abundant life; often covenantal blessing (from root <em>ḥayah</em> — "to live")</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A20&version=WEB" target="_blank">Deuteronomy 30:20</a> — "For he is your life"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">3. Breath of Life — נְשָׁמָה (<em>neshamah</em>)</summary>
+      <div class="lv-detail">— Life-giving breath from God</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=WEB" target="_blank">Genesis 2:7</a> — God breathes the breath of life into Adam</div>
+    </details>
+  </details>
+
+  <details>
+  <summary class="lv-1">New Testament (Greek)</summary>
+    <details>
+      <summary class="lv-lc">1. Light — φῶς (<em>phōs</em>)</summary>
+      <div class="lv-detail">— Spiritual truth, revelation, purity, divine presence</div>
+      <div class="lv-detail">— Contrasts with σκότος (<em>skotos</em>) = darkness (ignorance, sin, evil)</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+1%3A4-5&version=WEB" target="_blank">John 1:4–5</a> — "the life was the light of men. The light shines in the darkness"</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+8%3A12&version=WEB" target="_blank">John 8:12</a> — "I am the light of the world"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">2. Life — ζωή (<em>zōē</em>)</summary>
+      <div class="lv-detail">— Divine, eternal, abundant life — the very life of God</div>
+      <div class="lv-detail">— Distinct from βίος (<em>bios</em>) = biological life</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+1%3A4&version=WEB" target="_blank">John 1:4</a> — "In him was life"</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+10%3A10&version=WEB" target="_blank">John 10:10</a> — "I came that they may have life and have it abundantly"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">3. Word — λόγος (<em>logos</em>)</summary>
+      <div class="lv-detail">— Word, reason, divine expression — key in <a href="https://www.biblegateway.com/passage/?search=John+1%3A1-14&version=WEB" target="_blank">John 1</a></div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+1%3A1&version=WEB" target="_blank">John 1:1</a> — "In the beginning was the Word"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">4. Spirit — πνεῦμα (<em>pneuma</em>)</summary>
+      <div class="lv-detail">— Spirit, breath, wind — associated with giving life</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+3%3A5-6&version=WEB" target="_blank">John 3:5–6</a> — "That which is born of the Spirit is spirit"</div>
+    </details>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>B. God · Jesus · Spirit · Word as Light</strong></summary>
+
+  <details>
+  <summary class="lv-1">God the Father as Light</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=Psalm+27%3A1&version=WEB" target="_blank">Psalm 27:1</a> — "The Lord is my light and my salvation."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=Psalm+36%3A9&version=WEB" target="_blank">Psalm 36:9</a> — "In your light do we see light."</div>
+    <div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=Isaiah+60%3A19-20&version=WEB" target="_blank">Isaiah 60:19–20</a> — "The Lord will be your everlasting light."</div>
+    <div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=Micah+7%3A8&version=WEB" target="_blank">Micah 7:8</a> — "When I sit in darkness, the Lord will be a light to me."</div>
+    <div class="lv-lc">5. <a href="https://www.biblegateway.com/passage/?search=1+John+1%3A5&version=WEB" target="_blank">1 John 1:5</a> — "God is light, and in him is no darkness at all."</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">Jesus as Light</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=John+1%3A4-5&version=WEB" target="_blank">John 1:4–5</a> — "In him was life, and the life was the light of men."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=John+1%3A9&version=WEB" target="_blank">John 1:9</a> — "The true light, which gives light to everyone, was coming into the world."</div>
+    <div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=John+8%3A12&version=WEB" target="_blank">John 8:12</a> — "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."</div>
+    <div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=John+9%3A5&version=WEB" target="_blank">John 9:5</a> — "As long as I am in the world, I am the light of the world."</div>
+    <div class="lv-lc">5. <a href="https://www.biblegateway.com/passage/?search=John+12%3A46&version=WEB" target="_blank">John 12:46</a> — "I have come into the world as light."</div>
+    <div class="lv-lc">6. <a href="https://www.biblegateway.com/passage/?search=Revelation+21%3A23&version=WEB" target="_blank">Revelation 21:23</a> — The Lamb is the lamp of the new Jerusalem.</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">The Holy Spirit and Light</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+4%3A6&version=WEB" target="_blank">2 Corinthians 4:6</a> — "God… has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=John+14%3A26&version=WEB" target="_blank">John 14:26</a>; <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+2%3A10-12&version=WEB" target="_blank">1 Corinthians 2:10–12</a> — The Spirit illuminates truth.</div>
+    <div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=Ephesians+5%3A8&version=WEB" target="_blank">Ephesians 5:8</a> — Believers called to "walk as children of light."</div>
+    <div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=Matthew+5%3A14-16&version=WEB" target="_blank">Matthew 5:14–16</a> — "You are the light of the world."</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">The Word of God as Light</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=Psalm+119%3A105&version=WEB" target="_blank">Psalm 119:105</a> — "Your word is a lamp to my feet and a light to my path."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=Psalm+119%3A130&version=WEB" target="_blank">Psalm 119:130</a> — "The unfolding of your words gives light."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>C. God · Jesus · Spirit · Word as Life</strong></summary>
+
+  <details>
+  <summary class="lv-1">God the Father as Source of Life</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=Psalm+36%3A9&version=WEB" target="_blank">Psalm 36:9</a> — "With you is the fountain of life."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A20&version=WEB" target="_blank">Deuteronomy 30:20</a> — "For he is your life."</div>
+    <div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=Acts+17%3A25&version=WEB" target="_blank">Acts 17:25</a> — God gives to all mankind life and breath.</div>
+    <div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=Genesis+2%3A7&version=WEB" target="_blank">Genesis 2:7</a> — God breathes the breath of life into Adam.</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">Jesus as Life</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=John+1%3A4&version=WEB" target="_blank">John 1:4</a> — "In him was life."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=John+5%3A26&version=WEB" target="_blank">John 5:26</a> — "The Father has granted the Son also to have life in himself."</div>
+    <div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=John+6%3A35&version=WEB" target="_blank">John 6:35, 48</a> — "I am the bread of life."</div>
+    <div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=John+10%3A10&version=WEB" target="_blank">John 10:10</a> — "I came that they may have life and have it abundantly."</div>
+    <div class="lv-lc">5. <a href="https://www.biblegateway.com/passage/?search=John+11%3A25&version=WEB" target="_blank">John 11:25</a> — "I am the resurrection and the life."</div>
+    <div class="lv-lc">6. <a href="https://www.biblegateway.com/passage/?search=John+14%3A6&version=WEB" target="_blank">John 14:6</a> — "I am the way, and the truth, and the life."</div>
+    <div class="lv-lc">7. <a href="https://www.biblegateway.com/passage/?search=1+John+5%3A11-12&version=WEB" target="_blank">1 John 5:11–12</a> — "God gave us eternal life, and this life is in his Son."</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">The Holy Spirit as Life</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=John+6%3A63&version=WEB" target="_blank">John 6:63</a> — "It is the Spirit who gives life."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A6&version=WEB" target="_blank">2 Corinthians 3:6</a> — "The Spirit gives life."</div>
+    <div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A2&version=WEB" target="_blank">Romans 8:2</a> — "The law of the Spirit of life has set you free."</div>
+    <div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A11&version=WEB" target="_blank">Romans 8:11</a> — He "will give life to your mortal bodies through his Spirit."</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">The Word of God as Life</summary>
+    <div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=John+6%3A63&version=WEB" target="_blank">John 6:63</a> — "The words that I have spoken to you are spirit and life."</div>
+    <div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=Matthew+4%3A4&version=WEB" target="_blank">Matthew 4:4</a> / <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+8%3A3&version=WEB" target="_blank">Deuteronomy 8:3</a> — "Man shall not live by bread alone, but by every word from the mouth of God."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>D. The Relationship Between Light and Life</strong></summary>
+
+  <details>
+  <summary class="lv-1">1. Foundational linking passage</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Psalm+36%3A9&version=WEB" target="_blank">Psalm 36:9</a> — "With you is the fountain of life; in your light do we see light."</div>
+  </details>
+  <details>
+  <summary class="lv-1">2. John's theology (<a href="https://www.biblegateway.com/passage/?search=John+1%3A4&version=WEB" target="_blank">John 1:4</a>)</summary>
+    <div class="lv-lc">a. Life (zōē) = Divine essence — the source</div>
+    <div class="lv-lc">b. Light (phōs) = Divine revelation — the expression</div>
+    <div class="lv-lc">c. Life produces light; light reveals life</div>
+  </details>
+  <details>
+  <summary class="lv-1">3. A repeating biblical pattern</summary>
+    <div class="lv-lc">a. God gives life → life produces light → light defeats darkness → darkness represents death</div>
+    <div class="lv-lc">b. Seen in: <a href="https://www.biblegateway.com/passage/?search=Genesis+1&version=WEB" target="_blank">Genesis 1</a> → <a href="https://www.biblegateway.com/passage/?search=Psalm+36%3A9&version=WEB" target="_blank">Psalm 36</a> → <a href="https://www.biblegateway.com/passage/?search=John+1%3A1-14&version=WEB" target="_blank">John 1</a> → <a href="https://www.biblegateway.com/passage/?search=Revelation+21-22&version=WEB" target="_blank">Revelation 21–22</a></div>
+  </details>
+  <details>
+  <summary class="lv-1">4. Creation parallel</summary>
+    <div class="lv-lc">a. Genesis 1: Light created first; life follows</div>
+    <div class="lv-lc">b. John 1: Word → Life → Light — strong theological parallel</div>
+  </details>
+  <details>
+  <summary class="lv-1">5. Eternal fulfillment</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Revelation+21%3A23&version=WEB" target="_blank">Revelation 21:23</a> — "The glory of God gives it light, and its lamp is the Lamb."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Revelation+22%3A1-2&version=WEB" target="_blank">Revelation 22:1–2</a> — River of life, tree of life, eternal light — life and light completely united.</div>
+  </details>
+  <details>
+  <summary class="lv-1">Further Study: Christian Thought on Light and Life</summary>
+    <details>
+      <summary class="lv-lc">1. Athanasius (<em>On the Incarnation</em>, 4th c.)</summary>
+      <div class="lv-detail">— Christ restores life by bringing light; darkness represents corruption and death; light restores creation</div>
+    </details>
+    <details>
+      <summary class="lv-lc">2. Augustine (4th–5th c.)</summary>
+      <div class="lv-detail">— Light = truth and knowledge of God; ignorance = darkness; union with God = life</div>
+    </details>
+    <details>
+      <summary class="lv-lc">3. John Calvin</summary>
+      <div class="lv-detail">— Light → revelation; Life → regeneration; the Spirit provides both illumination and new life</div>
+    </details>
+  </details>
+
+</details>
+
 </section>
 ```

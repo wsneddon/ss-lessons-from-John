@@ -13,8 +13,49 @@ format:
 <section class="slide level2">
 <h2>II. Jesus as God</h2>
 
+<div class="lv-a"><a href="https://www.youtube.com/watch?v=8GV9pQo4wZo" target="_blank">Opening Song</a></div>
+<div class="lv-a"><a href="https://bibleproject.com/videos/son-of-man/" target="_blank">Overview Video — Bible Project: Son of Man</a></div>
+
 <details>
-<summary><strong>A. Seed of the Woman</strong></summary>
+<summary><strong>A. Testing the Spirits — 1 John 4:1–3</strong></summary>
+<div class="lv-1">1. The Passage</div>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=1+John+4%3A1-3&version=WEB" target="_blank">1 John 4:1–3</a> — "Test the spirits… every spirit that confesses that Jesus Christ has come in the flesh is from God"</div>
+<div class="lv-lc">b. John responds to early Gnostic/Docetic teaching: Jesus was only divine spirit; physical incarnation was impossible for God</div>
+<div class="lv-lc">c. John's boundary: true teaching confesses that <strong>Jesus Christ truly came in the flesh</strong></div>
+
+<details>
+<summary><strong>Further Study: What "Come in the Flesh" Means</strong></summary>
+<div class="lv-1">1. Full Humanity of Jesus</div>
+<div class="lv-lc">a. Jesus had a real human body; truly entered history; His suffering and death were real</div>
+<div class="lv-1">2. Real Identity of Christ</div>
+<div class="lv-lc">a. "Jesus Christ" = the Messiah, the Anointed One — not merely a teacher but the promised Savior</div>
+<div class="lv-1">3. Connection to Deity</div>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+1%3A1&version=WEB" target="_blank">John 1:1</a> — "the Word was God"; <a href="https://www.biblegateway.com/passage/?search=John+1%3A14&version=WEB" target="_blank">John 1:14</a> — "the Word became flesh"</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Colossians+2%3A9&version=WEB" target="_blank">Colossians 2:9</a> — "in Him the fullness of deity dwells bodily"</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Philippians+2%3A6-7&version=WEB" target="_blank">Philippians 2:6–7</a> — Christ pre-existed and became human</div>
+<div class="lv-lc">d. Logic: if Jesus is truly the eternal Word → He is divine; if He truly became flesh → the incarnation is real; therefore: fully God and fully man</div>
+</details>
+
+<details>
+<summary><strong>Further Study: What Counts as Heresy Here?</strong></summary>
+<div class="lv-1">1. Historic Orthodox Christianity (Catholic, Orthodox, most Protestant)</div>
+<div class="lv-lc">a. Core belief: Jesus is fully God, fully man, truly incarnate</div>
+<div class="lv-lc">b. Denying the true incarnation places someone outside historic orthodoxy — Christology is essential to the gospel</div>
+<div class="lv-1">2. Major Categories of Rejected Teaching</div>
+<div class="lv-lc">a. Denying Jesus is truly God (e.g., Arianism)</div>
+<div class="lv-lc">b. Denying Jesus is truly human (Docetism / Gnosticism)</div>
+<div class="lv-lc">c. Splitting Christ into two separate beings</div>
+<div class="lv-lc">d. Rewriting the apostolic gospel — changing the meaning of incarnation or salvation</div>
+<div class="lv-1">3. Why This Matters</div>
+<div class="lv-lc">a. If Jesus is not truly God → He cannot fully reveal God</div>
+<div class="lv-lc">b. If Jesus is not truly human → He cannot redeem humanity</div>
+<div class="lv-lc">c. Christology is not secondary doctrine — it is foundational to salvation</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>B. Seed of the Woman</strong></summary>
 <div class="lv-1">1. Old Testament Prophecy</div>
 <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Genesis+3%3A15&version=WEB" target="_blank">Genesis 3:15</a> — "he shall bruise your head, and you shall bruise his heel"</div>
 <div class="lv-1">2. New Testament Fulfillments</div>
@@ -22,13 +63,37 @@ format:
 <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+16%3A20&version=WEB" target="_blank">Romans 16:20</a> — "The God of peace will soon crush Satan under your feet"</div>
 <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Hebrews+2%3A14&version=WEB" target="_blank">Hebrews 2:14</a> — "…through death he might destroy the one who has the power of death…"</div>
 <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Revelation+12%3A9,+17&version=WEB" target="_blank">Revelation 12:9, 17</a> — the ancient serpent; war on her offspring</div>
+
+<details>
+<summary><strong>Further Study: Is Genesis 3:15 a Reference to the Virgin Birth?</strong></summary>
+
+<div class="lv-1">1. The Passage — <em>Protoevangelium</em> ("First Gospel")</div>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Genesis+3%3A15&version=WEB" target="_blank">Genesis 3:15</a> — "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel." (ESV)</div>
+
+<div class="lv-1-gap">2. Modern Biblical Scholarship</div>
+<div class="lv-lc">a. <strong>"Seed of the woman"</strong> is generally read as a collective reference to humanity or the woman's descendants</div>
+<div class="lv-lc">b. Hebrew <em>zeraʿ</em> ("seed") typically means offspring/descendants — not specifically tied to reproductive biology</div>
+<div class="lv-lc">c. Most scholars see the passage as describing ongoing hostility between humans and evil (symbolized by the serpent), not predicting a virgin birth</div>
+<div class="lv-lc">d. The virgin birth connection is considered a later theological interpretation, not the original authorial intent</div>
+
+<div class="lv-1-gap">3. Traditional Christian Theology</div>
+<div class="lv-lc">a. Early church fathers (Irenaeus, Justin Martyr, Augustine) interpreted Genesis 3:15 as the first Messianic prophecy</div>
+<div class="lv-lc">b. The unusual phrase <strong>"seed of the woman"</strong> — genealogy normally traces through the father — was taken as suggestive of the virgin birth</div>
+<div class="lv-lc">c. Fulfilled in Christ: connected to <a href="https://www.biblegateway.com/passage/?search=Isaiah+7%3A14&version=WEB" target="_blank">Isaiah 7:14</a> ("the virgin shall conceive"), <a href="https://www.biblegateway.com/passage/?search=Matthew+1%3A18-25&version=WEB" target="_blank">Matthew 1:18–25</a>, and <a href="https://www.biblegateway.com/passage/?search=Luke+1%3A26-35&version=WEB" target="_blank">Luke 1:26–35</a></div>
+<div class="lv-lc">d. Viewed retrospectively as part of a larger pattern of prophecy pointing toward Christ's victory over evil</div>
+
+<div class="lv-1-gap">4. A Helpful Distinction</div>
+<div class="lv-lc">a. <strong>Original (historical) meaning:</strong> the struggle between humanity and evil — not originally about the virgin birth</div>
+<div class="lv-lc">b. <strong>Later theological (canonical) reading:</strong> a proto-Messianic promise, sometimes connected symbolically to the virgin birth</div>
+
+</details>
 </details>
 
 <details>
-<summary><strong>B. Seed of Abraham</strong></summary>
+<summary><strong>C. Seed of Abraham</strong></summary>
 <div class="lv-1">1. Old Testament Prophecy</div>
 <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Genesis+22%3A18&version=WEB" target="_blank">Genesis 22:18</a> — "in your offspring shall all the nations of the earth be blessed"</div>
-<div class="lv-lc">b. See also <a href="https://www.biblegateway.com/passage/?search=Genesis+12%3A3&version=WEB" target="_blank">Genesis 12:3</a>; 17:19</div>
+<div class="lv-lc">b. See also <a href="https://www.biblegateway.com/passage/?search=Genesis+12%3A3&version=WEB" target="_blank">Genesis 12:3</a>; <a href="https://www.biblegateway.com/passage/?search=Genesis+17%3A19&version=WEB" target="_blank">17:19</a></div>
 <div class="lv-1">2. New Testament Fulfillments</div>
 <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A16&version=WEB" target="_blank">Galatians 3:16</a> — Paul identifies Jesus as the singular seed</div>
 <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A29&version=WEB" target="_blank">Galatians 3:29</a> — believers share the promise through union with Christ</div>
@@ -37,7 +102,7 @@ format:
 </details>
 
 <details>
-<summary><strong>C. Old Testament Prophecies of a Divine Messiah</strong></summary>
+<summary><strong>D. Old Testament Prophecies of a Divine Messiah</strong></summary>
 <div class="lv-1">1. <a href="https://www.biblegateway.com/passage/?search=Isaiah+9%3A6&version=WEB" target="_blank">Isaiah 9:6</a> — "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace"</div>
 <div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=Isaiah+7%3A14&version=WEB" target="_blank">Isaiah 7:14</a> — "the virgin shall conceive… Immanuel" (God with us)</div>
 <div class="lv-1">3. <a href="https://www.biblegateway.com/passage/?search=Micah+5%3A2&version=WEB" target="_blank">Micah 5:2</a> — ruler from Bethlehem "whose origin is from of old, from ancient days"</div>
@@ -45,7 +110,7 @@ format:
 </details>
 
 <details>
-<summary><strong>D. Melchizedek — Type of Christ's Eternal Priesthood</strong></summary>
+<summary><strong>E. Melchizedek — Type of Christ's Eternal Priesthood</strong></summary>
 <div class="lv-1">1. Old Testament</div>
 <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Genesis+14%3A18-20&version=WEB" target="_blank">Genesis 14:18–20</a> — king-priest receives tithes from Abraham</div>
 <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Psalm+110%3A4&version=WEB" target="_blank">Psalm 110:4</a> — "You are a priest forever after the order of Melchizedek"</div>
@@ -56,7 +121,7 @@ format:
 </details>
 
 <details>
-<summary><strong>E. The "Son of Man" — Divine Ruler (Daniel 7)</strong></summary>
+<summary><strong>F. The "Son of Man" — Divine Ruler (Daniel 7)</strong></summary>
 <div class="lv-1">1. Old Testament</div>
 <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14&version=WEB" target="_blank">Daniel 7:13–14</a> — given everlasting dominion over all peoples and nations</div>
 <div class="lv-1">2. New Testament — Jesus Claims This Title</div>
@@ -64,7 +129,7 @@ format:
 </details>
 
 <details>
-<summary><strong>F. Jesus' Seven "I AM" Statements in John</strong></summary>
+<summary><strong>G. Jesus' Seven "I AM" Statements in John</strong></summary>
 <div class="lv-1">1. <a href="https://www.biblegateway.com/passage/?search=John+6%3A35&version=WEB" target="_blank">John 6:35</a> — "I am the bread of life"</div>
 <div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=John+8%3A12&version=WEB" target="_blank">John 8:12</a> — "I am the light of the world"</div>
 <div class="lv-1">3. <a href="https://www.biblegateway.com/passage/?search=John+10%3A9&version=WEB" target="_blank">John 10:9</a> — "I am the door"</div>
@@ -105,7 +170,7 @@ format:
 </details>
 
 <details>
-<summary><strong>G. Gospel Accounts — People Declaring Jesus' Deity or Worshiping Him</strong></summary>
+<summary><strong>H. Gospel Accounts — People Declaring Jesus' Deity or Worshiping Him</strong></summary>
 <div class="lv-1">1. <a href="https://www.biblegateway.com/passage/?search=John+20%3A28&version=WEB" target="_blank">John 20:28</a> — Thomas: "My Lord and my God!" (clearest verbal affirmation)</div>
 <div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=Matthew+16%3A16&version=WEB" target="_blank">Matthew 16:16</a> — Peter: "You are the Christ, the Son of the living God"</div>
 <div class="lv-1">3. <a href="https://www.biblegateway.com/passage/?search=Matthew+14%3A33&version=WEB" target="_blank">Matthew 14:33</a> — Disciples worship after walking on water: "Truly you are the Son of God"</div>
@@ -117,7 +182,7 @@ format:
 </details>
 
 <details>
-<summary><strong>H. Gospel Accounts — People Declaring Jesus as the Christ / Messiah</strong></summary>
+<summary><strong>I. Gospel Accounts — People Declaring Jesus as the Christ / Messiah</strong></summary>
 <div class="lv-1">1. <a href="https://www.biblegateway.com/passage/?search=John+1%3A41&version=WEB" target="_blank">John 1:41</a> — Andrew to Peter: "We have found the Messiah"</div>
 <div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=Mark+8%3A29&version=WEB" target="_blank">Mark 8:29</a> — Peter at Caesarea Philippi: "You are the Christ"</div>
 <div class="lv-1">3. <a href="https://www.biblegateway.com/passage/?search=Matthew+16%3A16&version=WEB" target="_blank">Matthew 16:16</a> — Peter (fuller): "the Christ, the Son of the living God"</div>
@@ -129,7 +194,7 @@ format:
 </details>
 
 <details>
-<summary><strong>I. Jesus' Pre-Existence Claims</strong> (primarily in John)</summary>
+<summary><strong>J. Jesus' Pre-Existence Claims</strong> (primarily in John)</summary>
 <div class="lv-1">1. <a href="https://www.biblegateway.com/passage/?search=John+8%3A58&version=WEB" target="_blank">John 8:58</a> — "before Abraham was, I am"</div>
 <div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=John+17%3A5&version=WEB" target="_blank">John 17:5</a> — "the glory that I had with you before the world existed"</div>
 <div class="lv-1">3. <a href="https://www.biblegateway.com/passage/?search=John+17%3A24&version=WEB" target="_blank">John 17:24</a> — "you loved me before the foundation of the world"</div>
@@ -141,7 +206,7 @@ format:
 </details>
 
 <details>
-<summary><strong>J. Additional New Testament Declarations of Jesus as God</strong></summary>
+<summary><strong>K. Additional New Testament Declarations of Jesus as God</strong></summary>
 <div class="lv-1">1. <a href="https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=WEB" target="_blank">Colossians 1:17</a> — "he is before all things, and in him all things hold together"</div>
 <div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=Colossians+2%3A9&version=WEB" target="_blank">Colossians 2:9</a> — "the whole fullness of deity dwells bodily"</div>
 <div class="lv-1">3. <a href="https://www.biblegateway.com/passage/?search=Philippians+2%3A5-6&version=WEB" target="_blank">Philippians 2:5–6</a> — "in the form of God… equality with God"</div>
