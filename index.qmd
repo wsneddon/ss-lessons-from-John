@@ -20,9 +20,8 @@ format:
 <div class="lv-a"><a href="04 - Jesus aa life and light/jesus-life-light.html">4. Jesus as Life and Light of Men <span class="verse-ref">(1:1–5)</span></a></div>
 <div class="lv-a"><a href="05 - Jesus in Salvation/jesus-in-salvation.html">5. Jesus in Salvation — New Birth <span class="verse-ref">(1:12–13, 3:3–8)</span></a></div>
 <div class="lv-a"><a href="06 - Jesus grace truth and the law/grace-truth-law.html">6. Jesus: Grace and Truth vs. Moses and the Law <span class="verse-ref">(1:17)</span></a></div>
-<div class="lv-a"><a href="07 - Jesus and the Holy Spirit/holy-spirit.html">7. Jesus Baptizes with the Holy Spirit</a></div>
-<div class="lv-a"><a href="08 - Jesus the Only way to the Father/only-way.html">8. Jesus: The Only Way to the Father</a></div>
-<div class="lv-a"><a href="09 - Jesus priestly prayer/priestly-prayer.html">9. Jesus' Priestly Prayer</a></div>
+<div class="lv-a"><a href="07 - Jesus the Only way to the Father/only-way.html">7. Jesus: The Only Way to the Father</a></div>
+<div class="lv-a"><a href="08 - Jesus priestly prayer/priestly-prayer.html">8. Jesus' Priestly Prayer</a></div>
 
 </section>
 ```
@@ -228,21 +227,14 @@ format:
 
 ```{=html}
 <section class="slide level2">
-<h2>VII. Jesus Baptizes with the Holy Spirit</h2>
+<h2>VII. Jesus: The Only Way to the Father</h2>
 <div class="placeholder">(Content to be developed)</div>
 </section>
 ```
 
 ```{=html}
 <section class="slide level2">
-<h2>VIII. Jesus: The Only Way to the Father</h2>
-<div class="placeholder">(Content to be developed)</div>
-</section>
-```
-
-```{=html}
-<section class="slide level2">
-<h2>IX. Jesus' Priestly Prayer</h2>
+<h2>VIII. Jesus' Priestly Prayer</h2>
 <div class="placeholder">(Content to be developed)</div>
 </section>
 ```
