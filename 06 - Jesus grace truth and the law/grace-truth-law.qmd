@@ -1,0 +1,231 @@
+---
+format:
+  revealjs:
+    theme: default
+    css: ../course-outline.css
+    slide-number: true
+    center: false
+    margin: 0.05
+    footer: "<a href='javascript:history.back()'>← Back</a>"
+---
+
+```{=html}
+<section class="slide level2">
+<h2>VI. Jesus: Grace and Truth vs. Moses and the Law</h2>
+
+<div class="lv-a"><a href="https://www.youtube.com/watch?v=j0ymWzHMGwo" target="_blank">Opening Song</a></div>
+<div class="lv-a"><a href="https://bibleproject.com/videos/law/" target="_blank">Overview Video</a></div>
+
+<details>
+<summary><strong>Opening Passage — John 1:17</strong></summary>
+<div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=John+1%3A17&version=WEB" target="_blank">John 1:17</a> — "For the law was given through Moses. Grace and truth were realized through Jesus Christ."</div>
+</details>
+
+<details>
+<summary><strong>A. The Law Reveals Sin — But Cannot Give Life</strong></summary>
+
+  <details>
+  <summary class="lv-1">The Law revealed sin but could not save</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Romans+3%3A20&version=WEB" target="_blank">Romans 3:20</a> — "For through the law comes the knowledge of sin."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+7%3A7&version=WEB" target="_blank">Romans 7:7</a> — "I would not have known sin except through the law."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Romans+7%3A12&version=WEB" target="_blank">Romans 7:12</a> — "The law is holy, and the commandment is holy and righteous and good."</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A21&version=WEB" target="_blank">Galatians 3:21</a> — "If a law had been given which could make alive, most certainly righteousness would have been of the law."</div>
+    <div class="lv-lc">e. <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A10-11&version=WEB" target="_blank">Galatians 3:10–11</a> — Those relying on works of the law are under a curse; no one is justified by the law.</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>B. Salvation Is by Grace Through Faith</strong></summary>
+
+  <details>
+  <summary class="lv-1">Children of God by new birth</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+1%3A12-13&version=WEB" target="_blank">John 1:12–13</a> — "To all who received him… he gave the right to become God's children… who were born… of God."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=John+3%3A3-8&version=WEB" target="_blank">John 3:3–8</a> — Born again of the Spirit.</div>
+  </details>
+  <details>
+  <summary class="lv-1">Salvation is a gift, not earned</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=WEB" target="_blank">Ephesians 2:8–9</a> — "For by grace you have been saved through faith… not of works."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=WEB" target="_blank">Titus 3:5</a> — "He saved us — not by works of righteousness… but according to his mercy — through the washing of regeneration and renewing by the Holy Spirit."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Galatians+2%3A16&version=WEB" target="_blank">Galatians 2:16</a>; <a href="https://www.biblegateway.com/passage/?search=Romans+3%3A28&version=WEB" target="_blank">Romans 3:28</a> — Justified by faith apart from works of the law.</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>C. The Law as Schoolmaster</strong></summary>
+
+  <details>
+  <summary class="lv-1">The Law was temporary and preparatory</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A13&version=WEB" target="_blank">Galatians 3:13</a> — "Christ redeemed us from the curse of the law."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A23-25&version=WEB" target="_blank">Galatians 3:23–25</a> — "Before faith came, we were kept in custody under the law… The law has become our tutor [<a href="https://www.biblestudytools.com/lexicons/greek/nas/paidagogos.html" target="_blank"><em>paidagōgos</em></a>] to bring us to Christ… But now that faith has come, we are no longer under a tutor."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Galatians+4%3A4-5&version=WEB" target="_blank">Galatians 4:4–5</a> — God sent His Son to redeem those under the law.</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A1&version=WEB" target="_blank">Galatians 5:1</a> — "For freedom Christ has set us free."</div>
+    <div class="lv-lc">e. <a href="https://www.biblegateway.com/passage/?search=Romans+10%3A4&version=WEB" target="_blank">Romans 10:4</a> — "Christ is the end [goal/fulfillment] of the law for righteousness to everyone who believes."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>D. Jesus' Encounters: The Law Is Not Enough — Follow Me</strong></summary>
+
+  <details>
+  <summary class="lv-1">The Rich Young Ruler</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A17&version=WEB" target="_blank">Matthew 19:17</a> — "If you would enter life, keep the commandments." The young man claimed to have kept them all.</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A21&version=WEB" target="_blank">Matthew 19:21</a> — "If you would be perfect, go, sell what you possess and give to the poor… and come, follow me." He went away sorrowful.</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A24&version=WEB" target="_blank">Matthew 19:24</a> — "It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A26&version=WEB" target="_blank">Matthew 19:26</a> — "With man this is impossible, but with God all things are possible."</div>
+    <div class="lv-detail">— External commandment-keeping cannot save; wealth had become his idol; true life requires surrendering everything to follow Jesus.</div>
+  </details>
+  <details>
+  <summary class="lv-1">Other encounters</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Mark+12%3A28-34&version=WEB" target="_blank">Mark 12:28–34</a> — The Scribe affirmed love for God and neighbor; Jesus said he was "not far from the kingdom of God" — sincere agreement with the Law still falls short of entering through Christ.</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Matthew+16%3A24&version=WEB" target="_blank">Matthew 16:24</a>; <a href="https://www.biblegateway.com/passage/?search=Luke+9%3A23&version=WEB" target="_blank">Luke 9:23</a> — "Deny yourself, take up your cross, and follow me." Discipleship above all religious duty.</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=John+14%3A6&version=WEB" target="_blank">John 14:6</a> — "I am the way, the truth, and the life." The Law is good but cannot give life; Jesus is the way.</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>E. Christ Fulfilled the Law</strong></summary>
+
+  <details>
+  <summary class="lv-1">Jesus' own statement</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Matthew+5%3A17&version=WEB" target="_blank">Matthew 5:17</a> — "I didn't come to destroy, but to fulfill."</div>
+  </details>
+  <details>
+  <summary class="lv-1">The shadow and the reality</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Hebrews+10%3A1&version=WEB" target="_blank">Hebrews 10:1</a> — "The law, having a shadow of the good things to come, not the very image of the things…"</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Hebrews+10%3A1-14&version=WEB" target="_blank">Hebrews 10:1–14</a> — Christ as the final sacrifice accomplishing what the Old Covenant pointed toward.</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Colossians+2%3A16-17&version=WEB" target="_blank">Colossians 2:16–17</a> — Festivals, new moons, Sabbaths are "a shadow of things to come; the body is Christ."</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Hebrews+9%3A11-15&version=WEB" target="_blank">Hebrews 9:11–15</a> — Christ as mediator of a better covenant.</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>F. Released From the Law — The Dead Husband Illustration</strong></summary>
+
+  <details>
+  <summary class="lv-1">The marriage illustration (Romans 7)</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Romans+7%3A2-6&version=WEB" target="_blank">Romans 7:2–6</a> — "A married woman is bound by law to her husband while he lives, but if the husband dies, she is discharged… You also were made dead to the law through the body of Christ… Now we have been discharged from the law… we serve in newness of the Spirit."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1&version=WEB" target="_blank">Romans 8:1</a> — "There is now no condemnation to those who are in Christ Jesus."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Romans+6%3A14&version=WEB" target="_blank">Romans 6:14</a> — "You are not under law but under grace."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>G. The Letter Kills — The Spirit Gives Life</strong></summary>
+
+  <details>
+  <summary class="lv-1">The new covenant ministry</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A6&version=WEB" target="_blank">2 Corinthians 3:6</a> — "The letter kills, but the Spirit gives life."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A2-4&version=WEB" target="_blank">Romans 8:2–4</a> — "The law of the Spirit of life in Christ Jesus made me free from the law of sin and of death… that the ordinance of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Ezekiel+36%3A26-27&version=WEB" target="_blank">Ezekiel 36:26–27</a> — New heart and Spirit causing obedience.</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A22-23&version=WEB" target="_blank">Galatians 5:22–23</a> — Fruit of the Spirit.</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>H. Circumcision, Food Laws, and Sabbath</strong></summary>
+
+  <details>
+  <summary class="lv-1">Circumcision</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Acts+15%3A10-11&version=WEB" target="_blank">Acts 15:10–11</a> — Peter: "Why do you tempt God by putting a yoke on the neck of the disciples which neither our fathers nor we were able to bear? But we believe that we are saved through the grace of the Lord Jesus, in the same way as they are."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Acts+15%3A19-20&version=WEB" target="_blank">Acts 15:19–20</a>, <a href="https://www.biblegateway.com/passage/?search=Acts+15%3A28-29&version=WEB" target="_blank">28–29</a> — The Jerusalem Council's decision: Gentiles are not placed under the Mosaic Law; only minimal practical guidelines given.</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A2-4&version=WEB" target="_blank">Galatians 5:2–4</a> — "If you receive circumcision, Christ will profit you nothing… You are severed from Christ, you who would be justified by the law."</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Galatians+6%3A15&version=WEB" target="_blank">Galatians 6:15</a> — "Neither circumcision counts for anything, nor uncircumcision, but a new creation."</div>
+    <div class="lv-lc">e. <a href="https://www.biblegateway.com/passage/?search=Philippians+3%3A3&version=WEB" target="_blank">Philippians 3:3</a> — True circumcision is of the heart by the Spirit.</div>
+  </details>
+  <details>
+  <summary class="lv-1">Food laws</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Mark+7%3A18-19&version=WEB" target="_blank">Mark 7:18–19</a> — Jesus declared all foods clean.</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Acts+10%3A15&version=WEB" target="_blank">Acts 10:15</a> — "What God has cleansed, you must not call unclean."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Romans+14%3A14&version=WEB" target="_blank">Romans 14:14</a> — "Nothing is unclean of itself."</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=1+Timothy+4%3A4-5&version=WEB" target="_blank">1 Timothy 4:4–5</a> — "Everything created by God is good… nothing is to be rejected if received with thanksgiving."</div>
+  </details>
+  <details>
+  <summary class="lv-1">Sabbath and holy days</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Colossians+2%3A16-17&version=WEB" target="_blank">Colossians 2:16–17</a> — "Let no one judge you… with respect to a feast day, or a new moon, or a Sabbath day… a shadow of things to come; the body is Christ."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+14%3A5&version=WEB" target="_blank">Romans 14:5</a> — "One person esteems one day as more sacred than another; another esteems every day alike."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Acts+20%3A7&version=WEB" target="_blank">Acts 20:7</a>; <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A2&version=WEB" target="_blank">1 Corinthians 16:2</a> — Believers gathered on the first day of the week.</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Hebrews+4%3A9-10&version=WEB" target="_blank">Hebrews 4:9–10</a> — A Sabbath rest remains, fulfilled in Christ.</div>
+    <details>
+    <summary class="lv-lc">Early Church — Lord's Day Practice</summary>
+      <div class="lv-detail">— <strong>Didache</strong> (late 1st/early 2nd c.) — "But every Lord's day gather yourselves together, and break bread, and give thanksgiving… that your sacrifice may be pure."</div>
+      <div class="lv-detail">— <strong>Letter of Barnabas</strong> (c. 70–130s AD) — "We keep the eighth day [Sunday] with joyfulness, the day also on which Jesus rose again from the dead."</div>
+      <div class="lv-detail">— <strong>Ignatius of Antioch</strong> (c. 110 AD, <em>Letter to the Magnesians</em>) — Christians "no longer observing the Sabbath, but living in the observance of the Lord's Day, on which also our life has sprung up again by Him and by His death."</div>
+      <div class="lv-detail">— <strong>Justin Martyr</strong> (c. 150–155 AD, <em>First Apology</em> 67) — "On the day called Sunday, all who live in cities or in the country gather together… Sunday is the day on which we all hold our common assembly, because it is the first day on which God made the world; and Jesus Christ our Savior on the same day rose from the dead."</div>
+      <div class="lv-detail">— Sunday gathering for Word, prayer, and Eucharist was the norm across late 1st–mid-2nd century sources. The focus was resurrection theology: Christ rose on the first day, fulfilling and transcending the old covenant.</div>
+    </details>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>I. Christians Are Not Lawless</strong></summary>
+
+  <details>
+  <summary class="lv-1">Love fulfills the law</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A14&version=WEB" target="_blank">Galatians 5:14</a> — "The whole law is fulfilled in one word: 'You shall love your neighbor as yourself.'"</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+13%3A8-10&version=WEB" target="_blank">Romans 13:8–10</a> — Love is the fulfillment of the law.</div>
+  </details>
+  <details>
+  <summary class="lv-1">Walking by the Spirit</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A16&version=WEB" target="_blank">Galatians 5:16</a> — "Walk by the Spirit, and you won't fulfill the lust of the flesh."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A18&version=WEB" target="_blank">Galatians 5:18</a> — "If you are led by the Spirit, you are not under the law."</div>
+  </details>
+  <details>
+  <summary class="lv-1">The law written on the heart — The law of Christ</summary>
+    <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Hebrews+8%3A10&version=WEB" target="_blank">Hebrews 8:10</a> — "I will put my laws into their mind, and on their heart I will also write them." (Jeremiah 31:33)</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Galatians+6%3A2&version=WEB" target="_blank">Galatians 6:2</a> — "Bear one another's burdens, and so fulfill the law of Christ."</div>
+    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+9%3A21&version=WEB" target="_blank">1 Corinthians 9:21</a> — "Not being outside the law of God but under the law of Christ."</div>
+    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=James+1%3A25&version=WEB" target="_blank">James 1:25</a>; <a href="https://www.biblegateway.com/passage/?search=James+2%3A8&version=WEB" target="_blank">2:8</a> — The perfect law of liberty and the royal law.</div>
+    <div class="lv-lc">e. <a href="https://www.biblegateway.com/passage/?search=Hebrews+8%3A13&version=WEB" target="_blank">Hebrews 8:13</a> — "The old covenant is obsolete."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>J. Different Christian Views on the Law</strong></summary>
+
+  <details>
+  <summary class="lv-1">Reformed / Covenant Theology</summary>
+    <div class="lv-lc">— Moral law continues; ceremonial and civil laws fulfilled in Christ</div>
+  </details>
+  <details>
+  <summary class="lv-1">Eastern Orthodox View</summary>
+    <div class="lv-lc">— The whole Mosaic Law is fulfilled and transformed in Christ</div>
+    <div class="lv-lc">— Rejects the Western division of moral, ceremonial, and civil law</div>
+    <div class="lv-lc">— Focuses on the Law as preparation for the Gospel and the path to theosis (becoming like God)</div>
+    <div class="lv-lc">— Emphasizes mercy, healing, and participation in Christ over strict legal categories</div>
+  </details>
+  <details>
+  <summary class="lv-1">Dispensational View</summary>
+    <div class="lv-lc">— Church is not under Mosaic Law</div>
+    <div class="lv-lc">— Believers are under the Law of Christ</div>
+  </details>
+  <details>
+  <summary class="lv-1">New Covenant Theology</summary>
+    <div class="lv-lc">— Old Covenant obsolete; Christ's teachings govern believers</div>
+  </details>
+  <details>
+  <summary class="lv-1">Messianic Jewish Perspectives</summary>
+    <div class="lv-lc">— Jewish believers may continue Torah practices voluntarily</div>
+    <div class="lv-lc">— Salvation remains through Christ alone</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>K. Discussion Questions</strong></summary>
+<div class="lv-1">1. What was the purpose of the Law, and how does understanding that change how you read the Old Testament?</div>
+<div class="lv-1">2. What does it mean practically to be "not under law but under grace"?</div>
+<div class="lv-1">3. How does the Holy Spirit fulfill what the Law could not?</div>
+<div class="lv-1">4. How should Christians respond to those who insist on keeping Mosaic practices (circumcision, dietary laws, Sabbath)?</div>
+</details>
+
+</section>
+```

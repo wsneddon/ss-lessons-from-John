@@ -12,6 +12,228 @@ format:
 ```{=html}
 <section class="slide level2">
 <h2>V. Jesus in Salvation — New Birth</h2>
-<div class="placeholder">(Content to be developed)</div>
+
+<div class="lv-a"><a href="https://www.youtube.com/watch?v=3MZgXXUW08Q" target="_blank">Opening Song</a></div>
+<div class="lv-a"><a href="https://bibleproject.com/videos/redemption/" target="_blank">Overview Video</a></div>
+
+<details>
+<summary><strong>Opening Passages</strong></summary>
+<div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=John+1%3A12-13&version=WEB" target="_blank">John 1:12–13</a> — "But as many as received him, to them he gave the right to become God's children, to those who believe in his name: who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."</div>
+<div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=John+3%3A3-8&version=WEB" target="_blank">John 3:3–8</a> — "Unless one is born again he cannot see the kingdom of God… That which is born of the flesh is flesh, and that which is born of the Spirit is spirit."</div>
+<div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=1+Peter+1%3A12&version=WEB" target="_blank">1 Peter 1:12</a> — "… spoke of the things that have now been told you by those who have preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things."</div>
+</details>
+
+<details>
+<summary><strong>A. Key Greek Terms</strong></summary>
+
+  <details>
+  <summary class="lv-1">New Testament (Greek)</summary>
+    <details>
+      <summary class="lv-lc">1. Born again / from above — γεννηθῇ ἄνωθεν (<em>gennēthē anōthen</em>)</summary>
+      <div class="lv-detail">— Born again or born from above</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+3%3A3&version=WEB" target="_blank">John 3:3</a> — "Unless one is born again he cannot see the kingdom of God"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">2. Born of God — γεγέννηται ἐκ τοῦ θεοῦ (<em>gegennētai ek tou theou</em>)</summary>
+      <div class="lv-detail">— Begotten of God</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+John+5%3A1&version=WEB" target="_blank">1 John 5:1</a> — "Everyone who believes… has been born of God"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">3. Born again (verb) — ἀναγεννάω (<em>anagennaō</em>)</summary>
+      <div class="lv-detail">— To beget again, cause to be born again</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+Peter+1%3A3&version=WEB" target="_blank">1 Peter 1:3</a> — "He has caused us to be born again to a living hope"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">4. Regeneration — παλιγγενεσία (<em>palingenesia</em>)</summary>
+      <div class="lv-detail">— Rebirth, regeneration, new genesis</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=WEB" target="_blank">Titus 3:5</a> — "the washing of regeneration and renewal of the Holy Spirit"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">5. New creation — καινὴ κτίσις (<em>kainē ktisis</em>)</summary>
+      <div class="lv-detail">— New creation</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A17&version=WEB" target="_blank">2 Corinthians 5:17</a> — "If anyone is in Christ, he is a new creation"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">6. Made alive together — συζωοποιέω (<em>syzōopoieō</em>)</summary>
+      <div class="lv-detail">— Made alive together with Christ</div>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A5&version=WEB" target="_blank">Ephesians 2:5</a> — "made us alive together with Christ"</div>
+    </details>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>B. Old Testament Foundations</strong></summary>
+
+  <details>
+  <summary class="lv-1">Heart of Stone → Heart of Flesh</summary>
+    <details>
+      <summary class="lv-lc">Ezekiel 36:25–27</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Ezekiel+36%3A25-27&version=WEB" target="_blank">Ezekiel 36:25–27</a> — "I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes…"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">Ezekiel 11:19–20</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Ezekiel+11%3A19-20&version=WEB" target="_blank">Ezekiel 11:19–20</a> — "I will give them one heart and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh…"</div>
+    </details>
+  </details>
+
+  <details>
+  <summary class="lv-1">New Covenant: Law Written on the Heart</summary>
+    <details>
+      <summary class="lv-lc">Jeremiah 31:31–34</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=WEB" target="_blank">Jeremiah 31:31–34</a> — "I will make a new covenant… I will put my law within them, and I will write it on their hearts… I will forgive their iniquity, and I will remember their sin no more."</div>
+    </details>
+    <details>
+      <summary class="lv-lc">Jeremiah 32:39–40</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Jeremiah+32%3A39-40&version=WEB" target="_blank">Jeremiah 32:39–40</a> — "I will give them one heart and one way… I will put the fear of me in their hearts…"</div>
+    </details>
+  </details>
+
+  <details>
+  <summary class="lv-1">Circumcision of the Heart</summary>
+    <details>
+      <summary class="lv-lc">Deuteronomy 30:6</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A6&version=WEB" target="_blank">Deuteronomy 30:6</a> — "The Lord your God will circumcise your heart… so that you will love the Lord your God with all your heart…"</div>
+    </details>
+    <details>
+      <summary class="lv-lc">Deuteronomy 10:16</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A16&version=WEB" target="_blank">Deuteronomy 10:16</a> — "Circumcise therefore the foreskin of your heart…"</div>
+    </details>
+  </details>
+
+  <details>
+  <summary class="lv-1">New Life</summary>
+    <details>
+      <summary class="lv-lc">Ezekiel 37 — Valley of Dry Bones</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Ezekiel+37&version=WEB" target="_blank">Ezekiel 37</a> — God breathes life into dead Israel via His Spirit → they live.</div>
+    </details>
+    <details>
+      <summary class="lv-lc">Deuteronomy 30:6 — Moving from Spiritual Death to Life</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30%3A6&version=WEB" target="_blank">Deuteronomy 30:6</a> and the "new heart" passages imply moving from spiritual death to life.</div>
+    </details>
+    <details>
+      <summary class="lv-lc">Psalm 80:18 — God Revives His People</summary>
+      <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Psalm+80%3A18&version=WEB" target="_blank">Psalm 80:18</a> — God revives His people.</div>
+    </details>
+  </details>
+
+  <details>
+  <summary class="lv-1">Other Key Passages</summary>
+    <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Psalm+51%3A10&version=WEB" target="_blank">Psalm 51:10</a> — "Create in me a clean heart, O God, and renew a right spirit within me."</div>
+    <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Jeremiah+24%3A7&version=WEB" target="_blank">Jeremiah 24:7</a> — "I will give them a heart to know that I am the Lord…"</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>C. New Birth / Born Again</strong></summary>
+
+  <details>
+  <summary class="lv-lc">John 1:12–13</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+1%3A12-13&version=WEB" target="_blank">John 1:12–13</a> — "…to all who did receive him… he gave the right to become children of God, who were born, not of blood nor of the will of the flesh nor of the will of man, but of God."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">John 3:3–8 — Jesus to Nicodemus</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+3%3A3-8&version=WEB" target="_blank">John 3:3–8</a> — "Unless one is born again [γεννηθῇ ἄνωθεν] he cannot see the kingdom of God… That which is born of the Spirit is spirit."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">1 Peter 1:3</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+Peter+1%3A3&version=WEB" target="_blank">1 Peter 1:3</a> — "He has caused us to be born again [ἀναγεννάω] to a living hope through the resurrection of Jesus Christ…"</div>
+  </details>
+  <details>
+  <summary class="lv-lc">1 Peter 1:23</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+Peter+1%3A23&version=WEB" target="_blank">1 Peter 1:23</a> — "Having been born again, not of perishable seed but of imperishable, through the living and abiding word of God."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">1 John — Born of God</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+John+5%3A1&version=WEB" target="_blank">1 John 5:1</a> — "Everyone who believes… has been born of God"</div>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+John+3%3A9&version=WEB" target="_blank">1 John 3:9</a> — "No one born of God makes a practice of sinning"</div>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=1+John+4%3A7&version=WEB" target="_blank">1 John 4:7</a> — "Everyone who loves has been born of God"</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>D. New Creation</strong></summary>
+
+  <details>
+  <summary class="lv-lc">2 Corinthians 5:17</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A17&version=WEB" target="_blank">2 Corinthians 5:17</a> — "If anyone is in Christ, he is a new creation [καινὴ κτίσις]. The old has passed away; behold, the new has come."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">Galatians 6:15</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Galatians+6%3A15&version=WEB" target="_blank">Galatians 6:15</a> — "Neither circumcision nor uncircumcision means anything; what counts is a new creation."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>E. Made Alive with Christ</strong></summary>
+
+  <details>
+  <summary class="lv-lc">Ephesians 2:1–10</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A1-10&version=WEB" target="_blank">Ephesians 2:1–10</a> — "You were dead in the trespasses and sins… But God… made us alive together with Christ… For we are his workmanship, created in Christ Jesus for good works."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">Colossians 2:13</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Colossians+2%3A13&version=WEB" target="_blank">Colossians 2:13</a> — "You, who were dead in your sins… God made you alive together with him."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">Romans 6:4</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Romans+6%3A4&version=WEB" target="_blank">Romans 6:4</a> — "Just as Christ was raised from the dead… we too might walk in newness of life."</div>
+  </details>
+  <details>
+  <summary class="lv-lc">Titus 3:5</summary>
+  <div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=WEB" target="_blank">Titus 3:5</a> — "He saved us… by the washing of regeneration [παλιγγενεσία] and renewal of the Holy Spirit."</div>
+  </details>
+
+</details>
+
+<details>
+<summary><strong>F. Jesus a Kinsman-Redeemer</strong></summary>
+
+  <details>
+  <summary class="lv-1">What Is a Kinsman-Redeemer?</summary>
+  <div class="lv-detail">In ancient Israel, a kinsman-redeemer was a close male relative who had the responsibility (and privilege) to step in and restore what was lost for a family member in need.</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Leviticus+25%3A25-28&version=WEB" target="_blank">Leviticus 25:25–28</a> — Redeeming property sold due to poverty</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Leviticus+25%3A47-49&version=WEB" target="_blank">Leviticus 25:47–49</a> — Redeeming a relative sold into slavery</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Deuteronomy+25%3A5-10&version=WEB" target="_blank">Deuteronomy 25:5–10</a> — Marrying a childless widow to preserve the family name (levirate marriage; see also the Book of Ruth)</div>
+  </details>
+
+  <details>
+  <summary class="lv-1">Jesus Meets Every Requirement</summary>
+
+    <details>
+    <summary class="lv-lc">1. He became our Kinsman — by taking on human flesh, Jesus is truly one of us</summary>
+    <div class="lv-detail"><a href="https://www.biblegateway.com/passage/?search=John+1%3A14&version=WEB" target="_blank">John 1:14</a> — "The Word became flesh and dwelt among us."</div>
+    <div class="lv-detail"><a href="https://www.biblegateway.com/passage/?search=Hebrews+2%3A14-17&version=WEB" target="_blank">Hebrews 2:14–17</a> — "Since the children have flesh and blood, he too shared in their humanity… He had to be made like his brothers in every way, in order that he might become a merciful and faithful high priest…"</div>
+    </details>
+
+    <details>
+    <summary class="lv-lc">2. He was able to pay the price — only a sinless God-man could redeem us from sin's debt</summary>
+    <div class="lv-detail"><a href="https://www.biblegateway.com/passage/?search=1+Peter+1%3A18-19&version=WEB" target="_blank">1 Peter 1:18–19</a> — "You were redeemed… not with perishable things such as silver or gold, but with the precious blood of Christ, a lamb without blemish or defect."</div>
+    </details>
+
+    <details>
+    <summary class="lv-lc">3. He was willing — Jesus laid down His life voluntarily</summary>
+    <div class="lv-detail"><a href="https://www.biblegateway.com/passage/?search=John+10%3A17-18&version=WEB" target="_blank">John 10:17–18</a> — "I lay down my life… No one takes it from me, but I lay it down of my own accord."</div>
+    <div class="lv-detail"><a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A13&version=WEB" target="_blank">Galatians 3:13</a> — "Christ redeemed us from the curse of the law by becoming a curse for us."</div>
+    </details>
+
+  </details>
+
+  <details>
+  <summary class="lv-1">Key Verses on Jesus and Redemption</summary>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Ephesians+1%3A7&version=WEB" target="_blank">Ephesians 1:7</a> — "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace."</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Colossians+1%3A13-14&version=WEB" target="_blank">Colossians 1:13–14</a> — "He has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves, in whom we have redemption, the forgiveness of sins."</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Revelation+5%3A9&version=WEB" target="_blank">Revelation 5:9</a> — "You are worthy… because you were slain, and with your blood you purchased for God persons from every tribe and language and people and nation."</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Isaiah+53%3A5-6&version=WEB" target="_blank">Isaiah 53:5–6</a> — "He was pierced for our transgressions… the punishment that brought us peace was on him." (prophetic of the Messiah)</div>
+  <div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=Galatians+4%3A4-5&version=WEB" target="_blank">Galatians 4:4–5</a> — "God sent his Son, born of a woman… to redeem those under the law, that we might receive adoption to sonship."</div>
+  </details>
+
+  <div class="lv-1">Jesus doesn't just rescue us from sin's penalty — He restores our inheritance, adopts us into God's family, and gives us a new name and future. Like Boaz with Ruth, He brings outsiders (Gentiles included) into the covenant family.</div>
+
+</details>
+
 </section>
 ```
