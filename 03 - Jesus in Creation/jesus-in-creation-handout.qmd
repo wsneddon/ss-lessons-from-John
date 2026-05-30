@@ -12,7 +12,7 @@ mainfont: "Arial"
 
 # III. Jesus in Creation
 
-[Opening Song](https://www.youtube.com/watch?v=upu5Lk5t5QM&list=RDupu5Lk5t5QM&start_radio=1)
+[Opening Song](https://www.youtube.com/watch?v=a-m_6KN5ISA&list=RDa-m_6KN5ISA&start_radio=1)
 
 
 ## Introduction — Why I Think This Matters
@@ -103,7 +103,7 @@ mainfont: "Arial"
   • [Genesis 5:1–2](https://www.biblegateway.com/passage/?search=Genesis+5%3A1-2&version=WEB) — "When God created man, he made him in the likeness of God"
 
 
-## C. God's Character — Did He Mislead Us?
+## C. God's Truthfulness and Biblical View of Death
 
 ### 1. God Cannot Lie or Deceive
  a. [Hebrews 6:18](https://www.biblegateway.com/passage/?search=Hebrews+6%3A18&version=WEB) — "it is impossible for God to lie"
@@ -134,9 +134,11 @@ mainfont: "Arial"
 
   • Death and suffering are incompatible with a creation God declared "very good"
 
+  • [Tov](https://bibleproject.com/videos/vocab-insight-tov-good/) — Bible Project video on the Hebrew word for "good"
+
 
 #### b. Death entered through the Fall — Man's Rebellion
-  • [Genesis 2:17](https://www.biblegateway.com/passage/?search=Genesis+2%3A17&version=WEB) — "in the day that you eat of it you shall surely die"
+  • [Genesis 2:15-17](https://www.biblegateway.com/passage/?search=Genesis+2%3A15-17&version=WEB) — "in the day that you eat of it you shall surely die"
 
   • [Genesis 3:17–19](https://www.biblegateway.com/passage/?search=Genesis+3%3A17-19&version=WEB) — curse on creation; "to dust you shall return"
 
@@ -144,10 +146,16 @@ mainfont: "Arial"
 
   • [Romans 6:23](https://www.biblegateway.com/passage/?search=Romans+6%3A23&version=WEB) — "the wages of sin is death"
 
-  • [1 Corinthians 15:21](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A21&version=WEB) — "by a man came death… by a man has come also the resurrection"
+  • [1 Corinthians 15:21-23](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A21-23&version=WEB) — "by a man came death… by a man has come also the resurrection"
 
 
 #### c. New Creation will have no death or suffering
+  • [Isaiah 25:8–9](https://www.biblegateway.com/passage/?search=Isaiah%2025%3A8-9&version=WEB) — Death swallowed up
+
+  • [1 Corinthians 15:53–55](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A53%E2%80%9355&version=WEB) — Mortal put on immortality
+
+  • [Revelation 20:14](https://www.biblegateway.com/passage/?search=Revelation+20%3A14&version=WEB) — Death thrown into the lake of fire
+
   • [Revelation 21:3–4](https://www.biblegateway.com/passage/?search=Revelation+21%3A3-4&version=WEB) — "He will wipe away every tear… death shall be no more, neither shall there be mourning, nor crying, nor pain anymore"
 
 
@@ -188,36 +196,48 @@ mainfont: "Arial"
 ### 1. Creation of the Universe
  a. Time, matter, and space were all created together
 
-  i. Einstein showed they are coupled and interdependent
+  • Einstein showed they are coupled and interdependent
 
-  ii. E = MC² — mass and energy are interlinked
+  • E = MC² — mass and energy are interlinked
 
-  iii. Therefore time, space, and mass/energy came into existence at the same moment
+  • Therefore time, space, and mass/energy came into existence at the same moment
 
-  iv. [Video: Time, Space, and Matter](https://www.youtube.com/watch?v=w6AHcv19NIc)
+  • [Video: Time, Space, and Matter](https://www.youtube.com/watch?v=w6AHcv19NIc)
 
  b. Whatever created the material world could not itself be material
 
-  i. [Creator joke (clean version)](https://www.youtube.com/shorts/saeW0lqCufM)
+  • [Creator joke (clean version)](https://www.youtube.com/shorts/saeW0lqCufM)
 
  c. Second Law of Thermodynamics
 
-  i. Things do not naturally go from disorder to order
+  • Things do not naturally go from disorder to order
 
-  ii. Incredible complexity and order in the cosmos requires an explanation
+  • Incredible complexity and order in the cosmos requires an explanation
 
-  iii. Fine-tuning of physical constants points to intentional design
+ d. Fine Tuning of the Universe
+
+  • Fine-tuning of physical constants points to intentional design
+
+  • [Video: Fine Tuning of the Universe](https://www.youtube.com/watch?v=azBWPrgnyUk)
 
 
 ### 2. Creation of Life
  a. Life did not spring into existence from non-life
 
-  i. A "simple" cell is not simple
+  • A "simple" cell is not simple
 
-  ii. Information always comes from a mind — DNA and RNA are coded with information
+  • Information always comes from a mind — DNA and RNA are coded with information
+
+  • [James Tour: Origin of Life Not Explained](https://www.youtube.com/watch?v=D5g74JHmVHg)
+
+  • [James Tour: Origin of Life a Problem of Time](https://www.youtube.com/watch?v=r4sP1E1Jd_Y)
 
 
-### 3. Early Christians All Believed in a Young Earth
+### 3. Creation of Diverse Life
+ a. [Coding of DNA](https://www.youtube.com/watch?v=qxhuxg3WRfg)
+
+
+### 4. Early Christians All Believed in a Young Earth
  a. Church fathers took creation literally
 
   • Basil the Great, Ambrose, Ephrem the Syrian — all interpreted the creation days as literal 24-hour days

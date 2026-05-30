@@ -72,9 +72,7 @@ format:
   <details>
   <summary class="lv-1">The Rich Young Ruler</summary>
     <div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A17&version=WEB" target="_blank">Matthew 19:17</a> — "If you would enter life, keep the commandments." The young man claimed to have kept them all.</div>
-    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A21&version=WEB" target="_blank">Matthew 19:21</a> — "If you would be perfect, go, sell what you possess and give to the poor… and come, follow me." He went away sorrowful.</div>
-    <div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A24&version=WEB" target="_blank">Matthew 19:24</a> — "It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."</div>
-    <div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A26&version=WEB" target="_blank">Matthew 19:26</a> — "With man this is impossible, but with God all things are possible."</div>
+    <div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Matthew+19%3A21-26&version=WEB" target="_blank">Matthew 19:21–26</a> — "If you would be perfect, go, sell what you possess and give to the poor… and come, follow me." He went away sorrowful. "It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God." "With man this is impossible, but with God all things are possible."</div>
     <div class="lv-detail">— External commandment-keeping cannot save; wealth had become his idol; true life requires surrendering everything to follow Jesus.</div>
   </details>
   <details>
