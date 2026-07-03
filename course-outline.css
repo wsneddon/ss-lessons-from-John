@@ -19,16 +19,18 @@
 }
 
 .reveal details summary {
-  font-size: 1em !important;
+  font-size: 1.20em !important;
   font-weight: bold;
   cursor: pointer;
   margin-bottom: 0.1em;
   color: #4a7099 !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
 }
 
 /* Outline levels — work inside and outside <details> */
 .reveal .lv-a {
-  font-size: 0.82em !important;
+  font-size: 0.98em !important;
   margin-left: 30px !important;
   font-weight: bold !important;
   line-height: 1.6 !important;
@@ -36,7 +38,7 @@
 }
 
 .reveal .lv-a-gap {
-  font-size: 0.82em !important;
+  font-size: 0.98em !important;
   margin-left: 30px !important;
   margin-top: 0.5em !important;
   font-weight: bold !important;
@@ -45,25 +47,27 @@
 }
 
 .reveal .lv-1 {
-  font-size: 0.76em !important;
+  font-size: 0.91em !important;
   margin-left: 60px !important;
   line-height: 1.6 !important;
   padding: 0 !important;
 }
 
 .reveal .lv-lc {
-  font-size: 0.70em !important;
+  font-size: 0.84em !important;
   margin-left: 90px !important;
   line-height: 1.6 !important;
-  padding: 0 !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
 }
 
 .reveal .lv-lc-italic {
-  font-size: 0.70em !important;
+  font-size: 0.84em !important;
   margin-left: 90px !important;
   font-style: italic !important;
   line-height: 1.6 !important;
-  padding: 0 !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
 }
 
 /* Sub-detail level — indented further, smaller font */
@@ -71,32 +75,36 @@
   font-size: 0.66em !important;
   margin-left: 120px !important;
   line-height: 1.6 !important;
-  padding: 0 !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
+  font-style: italic !important;
 }
 
 /* summary used as numbered point heading */
 .reveal summary.lv-1 {
-  font-size: 0.76em !important;
+  font-size: 0.91em !important;
   margin-left: 60px !important;
   line-height: 1.6 !important;
-  padding: 0 !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
   font-weight: normal;
   color: inherit !important;
 }
 
 .reveal summary.lv-1-gap {
-  font-size: 0.76em !important;
+  font-size: 0.91em !important;
   margin-left: 60px !important;
   margin-top: 0.4em !important;
   line-height: 1.6 !important;
-  padding: 0 !important;
+  padding-left: 1.2em !important;
+  text-indent: -1.2em !important;
   font-weight: normal;
   color: inherit !important;
 }
 
 /* Number items with gap above */
 .reveal .lv-1-gap {
-  font-size: 0.76em !important;
+  font-size: 0.91em !important;
   margin-left: 60px !important;
   margin-top: 0.4em !important;
   line-height: 1.6 !important;
@@ -112,7 +120,7 @@
 
 /* Bulleted item with hanging indent for text wrap */
 .reveal .lv-bullet {
-  font-size: 0.82em !important;
+  font-size: 0.98em !important;
   margin-left: 30px !important;
   padding-left: 1.2em !important;
   text-indent: -1.2em !important;
@@ -138,7 +146,7 @@
 }
 
 .reveal .placeholder {
-  font-size: 0.82em !important;
+  font-size: 0.98em !important;
   margin-left: 30px !important;
   font-style: italic !important;
   line-height: 1.6 !important;

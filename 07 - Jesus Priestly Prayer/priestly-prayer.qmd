@@ -1,0 +1,302 @@
+---
+format:
+  revealjs:
+    theme: default
+    css: ../course-outline.css
+    slide-number: true
+    center: false
+    margin: 0.05
+    footer: "<a href='javascript:history.back()'>← Back</a>"
+---
+
+```{=html}
+<section class="slide level2">
+<h2>VII. Glory in Scripture</h2>
+
+<div class="lv-a"><a href="https://www.youtube.com/watch?v=zzM9P_Gqw-s" target="_blank">Opening Song</a></div>
+<div class="lv-a"><a href="https://bibleproject.com/videos/kavod-glory/" target="_blank">Overview Video — Bible Project: Glory (Kavod)</a></div>
+
+<details>
+<summary><strong>Opening Passages — John 17</strong></summary>
+<div class="lv-lc"><a href="https://www.biblegateway.com/passage/?search=John+17&version=WEB" target="_blank">John 17</a> — Jesus' High Priestly Prayer</div>
+<div class="lv-lc">1. <a href="https://www.biblegateway.com/passage/?search=John+17%3A1&version=WEB" target="_blank">John 17:1</a> — "Father, the hour has come; glorify your Son that the Son may glorify you."</div>
+<div class="lv-lc">2. <a href="https://www.biblegateway.com/passage/?search=John+17%3A5&version=WEB" target="_blank">John 17:5</a> — "Father, glorify Me in Your own presence with the glory that I had with You before the world existed."</div>
+<div class="lv-lc">3. <a href="https://www.biblegateway.com/passage/?search=John+17%3A22&version=WEB" target="_blank">John 17:22</a> — "The glory that You have given Me I have given to them, that they may be one even as we are one."</div>
+<div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=John+17%3A24&version=WEB" target="_blank">John 17:24</a> — "Father, I desire that they also, whom You have given Me, be with Me where I am, to see My glory."</div>
+
+<details>
+<summary><strong>Four Themes in John 17</strong></summary>
+<div class="lv-1">1. The eternal glory of the Father</div>
+<div class="lv-1">2. The glory shared between the Father and Son before creation</div>
+<div class="lv-1">3. The glory given to believers</div>
+<div class="lv-1">4. The ultimate destiny of God's people — to behold and share in God's glory</div>
+<div class="lv-lc">— Glory here is not abstract but relational, missional, and tied to the cross and resurrection — the "hour" of Jesus' glorification through suffering and victory</div>
+</details>
+</details>
+
+<details>
+<summary><strong>A. Word Study</strong></summary>
+
+<details>
+<summary class="lv-1">Hebrew — כָּבוֹד (kabod / kavod)</summary>
+<div class="lv-lc">1. Root: <em>kābed</em> — "to be heavy" or "weighty"</div>
+<div class="lv-lc">2. Literal meaning: weight, heaviness, substance, importance</div>
+<div class="lv-lc">3. English concepts: honor, splendor, majesty, reputation, worth, wealth, magnificence</div>
+<div class="lv-lc">4. In ordinary usage: something "weighty" was important and significant; a person with <em>kabod</em> had substance and commanded respect — often terrifying in its intensity</div>
+<div class="lv-lc">5. Opposite: <em>qālôn</em> — lightness, shame, dishonor</div>
+<div class="lv-lc">6. Applied to God: the visible and invisible manifestation of His greatness, holiness, power, and presence — not merely His reputation but the manifestation of who He truly is</div>
+<div class="lv-lc">7. Key references</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Exodus+16%3A10&version=WEB" target="_blank">Exodus 16:10</a> — glory appears in the cloud</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Exodus+24%3A16-17&version=WEB" target="_blank">Exodus 24:16–17</a> — glory settles on Sinai like devouring fire</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Exodus+40%3A34-35&version=WEB" target="_blank">Exodus 40:34–35</a> — glory fills the Tabernacle; Moses cannot enter</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-3&version=WEB" target="_blank">Isaiah 6:1–3</a> — seraphim cry "Holy, holy, holy; the whole earth is full of His glory"</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Ezekiel+1&version=WEB" target="_blank">Ezekiel 1</a>; <a href="https://www.biblegateway.com/passage/?search=Ezekiel+10&version=WEB" target="_blank">10</a>; <a href="https://www.biblegateway.com/passage/?search=Ezekiel+43&version=WEB" target="_blank">43</a> — visions of glory departing and returning</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=WEB" target="_blank">Psalm 19:1</a> — "The heavens declare the glory of God"</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Psalm+29%3A1-2&version=WEB" target="_blank">Psalm 29:1–2</a> — calls to give God glory</div>
+</details>
+
+<details>
+<summary class="lv-1">Greek — δόξα (doxa)</summary>
+<div class="lv-lc">1. Root: <em>dokeō</em> — "to think, seem, or opine"</div>
+<div class="lv-lc">2. Classical Greek meaning: opinion, reputation, esteem</div>
+<div class="lv-lc">3. In the Septuagint: <em>doxa</em> became the standard translation for <em>kabod</em>, absorbing its full range of meaning</div>
+<div class="lv-lc">4. New Testament meaning: divine splendor, honor, majesty, radiance — the revealed excellence and manifested character of God</div>
+<div class="lv-lc">5. Related verb: <em>doxazō</em> — to glorify, to honor</div>
+<div class="lv-lc">6. Key references</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Luke+2%3A9&version=WEB" target="_blank">Luke 2:9</a> — the glory of the Lord shining around the shepherds</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=John+1%3A14&version=WEB" target="_blank">John 1:14</a> — "We have seen His glory"</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Hebrews+1%3A3&version=WEB" target="_blank">Hebrews 1:3</a> — Jesus as "the radiance of the glory of God"</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=WEB" target="_blank">2 Corinthians 3:18</a> — believers transformed from glory to glory</div>
+<div class="lv-detail">— <a href="https://www.biblegateway.com/passage/?search=Revelation+21%3A23&version=WEB" target="_blank">Revelation 21:23</a> — God's glory illuminates the New Jerusalem</div>
+</details>
+
+<details>
+<summary class="lv-1">Common Usage vs. Biblical Understanding</summary>
+<div class="lv-lc">1. Modern / classical: fame, praise, recognition, personal achievement — focused on human accomplishment</div>
+<div class="lv-lc">2. Biblical: the weight and worth of God's perfect character put on display — God-centered, His intrinsic excellence worthy of worship</div>
+<div class="lv-lc">3. Key distinction: biblical glory is not self-promotion; it is the public display of divine perfection, often linked to light, presence, and redemptive acts</div>
+<div class="lv-lc">4. <a href="https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=WEB" target="_blank">Romans 3:23</a> — humanity falls short of God's glory</div>
+<div class="lv-lc">5. <a href="https://www.biblegateway.com/passage/?search=Philippians+2%3A3&version=WEB" target="_blank">Philippians 2:3</a> — true glory is found in giving it to God, not seeking it for ourselves ("vainglory")</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>B. The Glory of the Father</strong></summary>
+
+<details>
+<summary class="lv-1">1. Creation Reveals His Glory</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=WEB" target="_blank">Psalm 19:1</a> — "The heavens declare the glory of God" — creation is not merely beautiful; it is a constant display of God's greatness</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Isaiah+6%3A3&version=WEB" target="_blank">Isaiah 6:3</a> — "The whole earth is full of His glory" — His glory fills creation because His reign extends everywhere</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Numbers+14%3A21&version=WEB" target="_blank">Numbers 14:21</a> — "All the earth shall be filled with the glory of the LORD"</div>
+<div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Habakkuk+2%3A14&version=WEB" target="_blank">Habakkuk 2:14</a> — "The earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea"</div>
+</details>
+
+<details>
+<summary class="lv-1">2. The Glory Cloud — Tabernacle and Temple</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Exodus+16%3A10&version=WEB" target="_blank">Exodus 16:10</a> — glory appears in the cloud in the wilderness</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Exodus+24%3A16-17&version=WEB" target="_blank">Exodus 24:16–17</a> — glory settles on Sinai for six days; appears like devouring fire</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Exodus+40%3A34-35&version=WEB" target="_blank">Exodus 40:34–35</a> — glory fills the Tabernacle with such weight that Moses cannot enter</div>
+<div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=1+Kings+8%3A10-11&version=WEB" target="_blank">1 Kings 8:10–11</a> — glory fills Solomon's Temple; priests cannot stand to minister</div>
+</details>
+
+<details>
+<summary class="lv-1">3. Moses and God's Glory</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Exodus+33%3A18&version=WEB" target="_blank">Exodus 33:18</a> — Moses asks: "Show me Your glory"</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Exodus+34%3A6&version=WEB" target="_blank">Exodus 34:6</a> — God responds by revealing His character: "The LORD, the LORD, compassionate and gracious, slow to anger, and abounding in lovingkindness and truth"</div>
+<div class="lv-lc">c. Key principle: God's glory is not merely brightness — it is the revelation of His character. Holiness, love, justice, and power are all part of it.</div>
+<div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Isaiah+42%3A8&version=WEB" target="_blank">Isaiah 42:8</a> — "I am the LORD; that is my name; my glory I give to no other"</div>
+<div class="lv-lc">e. <a href="https://www.biblegateway.com/passage/?search=Isaiah+48%3A11&version=WEB" target="_blank">Isaiah 48:11</a> — "My glory I will not give to another" — God's glory is jealous for His own name</div>
+</details>
+
+<details>
+<summary class="lv-1">4. Isaiah's Vision</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-3&version=WEB" target="_blank">Isaiah 6:1–3</a> — "I saw the Lord sitting upon a throne, high and lifted up… the seraphim called: 'Holy, holy, holy is the LORD of hosts; the whole earth is full of His glory'"</div>
+</details>
+
+<details>
+<summary class="lv-1">5. Ezekiel's Visions of Glory Departing and Returning</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Ezekiel+1&version=WEB" target="_blank">Ezekiel 1</a> — the vision of God's glory above the living creatures and wheels</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Ezekiel+10&version=WEB" target="_blank">Ezekiel 10</a> — the glory of the LORD departs from the Temple</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Ezekiel+43%3A1-5&version=WEB" target="_blank">Ezekiel 43:1–5</a> — the glory of the LORD returns to fill the new Temple</div>
+</details>
+
+<details>
+<summary class="lv-1">6. The Father's Glory in John 17</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+17%3A1&version=WEB" target="_blank">John 17:1</a> — Jesus seeks to glorify the Father; the Father's glory is both the source and the goal</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=John+17%3A3&version=WEB" target="_blank">John 17:3</a> — eternal life is defined as knowing the Father and the Son</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=John+17%3A4&version=WEB" target="_blank">John 17:4</a> — "I glorified You on the earth, having accomplished the work which You have given Me to do"</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>C. The Glory of Jesus Christ</strong></summary>
+
+<details>
+<summary class="lv-1">1. Glory Before Creation</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+17%3A5&version=WEB" target="_blank">John 17:5</a> — "Father, glorify Me in Your own presence with the glory that I had with You before the world existed" — one of the strongest declarations of Christ's preexistence in all of Scripture</div>
+<div class="lv-lc">b. The glory is not new — it is the restoration of what was veiled in the Incarnation</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=John+17%3A24&version=WEB" target="_blank">John 17:24</a> — "You loved Me before the foundation of the world"</div>
+</details>
+
+<details>
+<summary class="lv-1">2. Glory in the Incarnation</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+1%3A14&version=WEB" target="_blank">John 1:14</a> — "The Word became flesh and dwelt among us, and we have seen His glory, glory as of the only Son from the Father, full of grace and truth"</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Hebrews+1%3A3&version=WEB" target="_blank">Hebrews 1:3</a> — Jesus is "the radiance of the glory of God and the exact imprint of His nature" — not merely reflecting glory but embodying it</div>
+<div class="lv-lc">c. Unlike Sinai's cloud and fire, God's glory now appears in a person</div>
+</details>
+
+<details>
+<summary class="lv-1">3. Glory in His Works (Signs)</summary>
+<div class="lv-lc">a. John calls miracles "signs" — they reveal who Jesus is</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=John+2%3A11&version=WEB" target="_blank">John 2:11</a> — water into wine: "manifested His glory, and His disciples believed in Him"</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=John+11%3A4&version=WEB" target="_blank">John 11:4</a> — Lazarus: "This sickness is not to end in death, but for the glory of God, so that the Son of God may be glorified by it"</div>
+</details>
+
+<details>
+<summary class="lv-1">4. Glory Through the Cross</summary>
+<div class="lv-lc">a. A surprising New Testament theme: the cross is glory</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=John+12%3A23&version=WEB" target="_blank">John 12:23</a> — as the hour of death approaches: "The hour has come for the Son of Man to be glorified"</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=John+13%3A31-32&version=WEB" target="_blank">John 13:31–32</a> — after Judas departs: "Now is the Son of Man glorified, and God is glorified in Him"</div>
+<div class="lv-lc">d. The world sees humiliation; God sees the supreme revelation of love, justice, mercy, and obedience</div>
+<div class="lv-lc">e. The cross redefines glory as sacrificial love rather than worldly power</div>
+</details>
+
+<details>
+<summary class="lv-1">5. Glory Through Resurrection and Exaltation</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Romans+6%3A4&version=WEB" target="_blank">Romans 6:4</a> — Christ is raised through the Father's glory — the resurrection is the Father's vindication of the Son</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Philippians+2%3A9-11&version=WEB" target="_blank">Philippians 2:9–11</a> — "God highly exalted Him… that at the name of Jesus every knee will bow… and every tongue will confess that Jesus Christ is Lord, to the glory of God the Father"</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>D. The Holy Spirit and Glory</strong></summary>
+<div class="lv-lc">— The Spirit is not named in John 17, but the prayer is deeply Trinitarian, and Scripture connects the Spirit intimately to glory</div>
+
+<details>
+<summary class="lv-1">1. The Spirit Glorifies Jesus</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+16%3A14&version=WEB" target="_blank">John 16:14</a> — "He [the Spirit] will glorify Me, for He will take of Mine and will disclose it to you"</div>
+<div class="lv-lc">b. The Spirit's ministry is not self-promotion but the magnification of Christ</div>
+</details>
+
+<details>
+<summary class="lv-1">2. The Spirit Transforms Believers into Glory</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=WEB" target="_blank">2 Corinthians 3:18</a> — "We all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit."</div>
+<div class="lv-lc">b. Beholding leads to becoming; the Spirit mediates this transformation</div>
+</details>
+
+<details>
+<summary class="lv-1">3. The Spirit as God's Indwelling Presence</summary>
+<div class="lv-lc">a. In the OT, God's glory filled the Tabernacle and Temple</div>
+<div class="lv-lc">b. In the NT, the Spirit fills believers — making their bodies the new temple of God's glorious presence</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A19&version=WEB" target="_blank">1 Corinthians 6:19</a> — "Your body is a temple of the Holy Spirit"</div>
+<div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A22&version=WEB" target="_blank">Ephesians 2:22</a> — believers built together as a dwelling place for God by the Spirit</div>
+</details>
+
+<details>
+<summary class="lv-1">4. The Spirit of Glory</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=1+Peter+4%3A14&version=WEB" target="_blank">1 Peter 4:14</a> — "The Spirit of glory and of God rests upon you" — one of the clearest direct links between the Holy Spirit and glory</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Ephesians+1%3A13-14&version=WEB" target="_blank">Ephesians 1:13–14</a> — the Spirit as the guarantee of our inheritance of glory</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A11&version=WEB" target="_blank">Romans 8:11</a> — He who raised Christ will give life to our mortal bodies through His Spirit</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>E. The Glory Given to God's People</strong></summary>
+
+<details>
+<summary class="lv-1">1. Shared Glory — John 17:22</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+17%3A22&version=WEB" target="_blank">John 17:22</a> — "The glory that You have given Me I have given to them, that they may be one even as we are one"</div>
+<div class="lv-lc">b. Not equality with God — rather: union with Christ, participation in God's life, reflection of God's character</div>
+<div class="lv-lc">c. The sequence in John 17:</div>
+<div class="lv-detail">i. The Father glorifies the Son</div>
+<div class="lv-detail">ii. The Son glorifies the Father</div>
+<div class="lv-detail">iii. The Son gives glory to believers</div>
+<div class="lv-detail">iv. That shared glory produces unity</div>
+<div class="lv-lc">d. Glory is therefore not merely radiance — it is participation in the divine life and love that eternally exists between Father and Son</div>
+<div class="lv-lc">e. The unity of the Church flows from sharing in that glory</div>
+</details>
+
+<details>
+<summary class="lv-1">2. From Glory to Glory — Present Transformation</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=WEB" target="_blank">2 Corinthians 3:18</a> — transformation is not instantaneous but progressive; believers are being changed into Christ's image from one degree of glory to another by the Spirit</div>
+</details>
+
+<details>
+<summary class="lv-1">3. Future Glory</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A17-18&version=WEB" target="_blank">Romans 8:17–18</a> — "Heirs of God and fellow heirs with Christ… the sufferings of this present time are not worth comparing with the glory that is to be revealed to us"</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A29-30&version=WEB" target="_blank">Romans 8:29–30</a> — the golden chain: foreknown → predestined → called → justified → <strong>glorified</strong>; glorification is as certain as foreknowledge</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Colossians+3%3A4&version=WEB" target="_blank">Colossians 3:4</a> — "When Christ, who is our life, is revealed, then you also will be revealed with Him in glory"</div>
+</details>
+
+<details>
+<summary class="lv-1">4. Glorified Bodies</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Philippians+3%3A21&version=WEB" target="_blank">Philippians 3:21</a> — Christ "will transform our lowly body to be like His glorious body"</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A43&version=WEB" target="_blank">1 Corinthians 15:43</a> — "It is sown in dishonor; it is raised in glory"</div>
+</details>
+
+<details>
+<summary class="lv-1">5. Seeing His Glory — The Final Goal</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+17%3A24&version=WEB" target="_blank">John 17:24</a> — "Father, I desire that they also, whom You have given Me, be with Me where I am, to see My glory" — the final destiny of believers is not merely heaven as a place; it is beholding Christ</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=1+John+3%3A2&version=WEB" target="_blank">1 John 3:2</a> — "We will see Him just as He is"</div>
+<div class="lv-lc">c. <a href="https://www.biblegateway.com/passage/?search=Revelation+21%3A23&version=WEB" target="_blank">Revelation 21:23</a> — the New Jerusalem needs no sun or moon; the glory of God illuminates it, and its lamp is the Lamb</div>
+<div class="lv-lc">d. <a href="https://www.biblegateway.com/passage/?search=Revelation+22%3A1-5&version=WEB" target="_blank">Revelation 22:1–5</a> — river of life, tree of life, the Lamb as lamp; no night there — life and light completely united</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>F. The Story of Glory Through the Bible</strong></summary>
+
+<details>
+<summary class="lv-1">1. Creation — Man Crowned with Glory</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A26-27&version=WEB" target="_blank">Genesis 1:26–27</a> — humanity made in the image of God</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Psalm+8%3A3-6&version=WEB" target="_blank">Psalm 8:3–6</a> — man crowned with glory and honor, given dominion over creation</div>
+</details>
+
+<details>
+<summary class="lv-1">2. Fall — Humanity Falls Short</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=WEB" target="_blank">Romans 3:23</a> — "All have sinned and fall short of the glory of God"</div>
+</details>
+
+<details>
+<summary class="lv-1">3. Redemption — Jesus Reveals and Restores</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=John+1%3A14&version=WEB" target="_blank">John 1:14</a> — the Word became flesh; we beheld His glory</div>
+</details>
+
+<details>
+<summary class="lv-1">4. Sanctification — Transformed by the Spirit</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=WEB" target="_blank">2 Corinthians 3:18</a> — from glory to glory by the Spirit</div>
+</details>
+
+<details>
+<summary class="lv-1">5. Consummation — Sharing in Christ's Glory Forever</summary>
+<div class="lv-lc">a. <a href="https://www.biblegateway.com/passage/?search=Romans+8%3A30&version=WEB" target="_blank">Romans 8:30</a> — "Those whom He justified He also glorified"</div>
+<div class="lv-lc">b. <a href="https://www.biblegateway.com/passage/?search=Revelation+21%3A23&version=WEB" target="_blank">Revelation 21:23</a> — the glory of God as the eternal light of the New Jerusalem</div>
+</details>
+
+</details>
+
+<details>
+<summary><strong>G. C.S. Lewis and <em>The Weight of Glory</em></strong></summary>
+<div class="lv-lc">— Few modern writers captured the biblical vision of glory better than C. S. Lewis in his 1941 sermon "The Weight of Glory"</div>
+<div class="lv-lc">— Lewis argued that the deepest meaning of glory is not primarily splendor, but God's approval and delight in His redeemed children — connected to Romans 8 and John 17</div>
+<div class="lv-lc">— A fitting summary: The Father's glory is revealed in the Son. The Son glorifies the Father through obedience, death, and resurrection. The Spirit reveals and imparts that glory. The chosen are transformed by that glory, united through it, and will one day behold it fully.</div>
+<div class="lv-1"><a href="https://www.doxaweb.com/assets/weight_of_glory.pdf" target="_blank">The Weight of Glory (PDF)</a></div>
+<div class="lv-1"><a href="https://openlibrary.org/works/OL71133W/The_Weight_of_Glory" target="_blank">The Weight of Glory — Open Library</a></div>
+</details>
+
+<details>
+<summary><strong>H. Discussion Questions</strong></summary>
+<div class="lv-1">1. Moses asked to see God's glory, and God revealed His character (<a href="https://www.biblegateway.com/passage/?search=Exodus+33-34&version=WEB" target="_blank">Exodus 33–34</a>). What does that teach us about what glory really is?</div>
+<div class="lv-1">2. <a href="https://www.biblegateway.com/passage/?search=John+17%3A22&version=WEB" target="_blank">John 17:22</a> says Jesus gave His glory to believers. What does it look like practically to "have" Christ's glory?</div>
+<div class="lv-1">3. If the Spirit is transforming us "from glory to glory" (<a href="https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=WEB" target="_blank">2 Corinthians 3:18</a>), what does that process look like in everyday life?</div>
+<div class="lv-1">4. The cross is described as Jesus' hour of glory. How does that redefine how we think about suffering and glory in our own lives?</div>
+<div class="lv-1">5. Jesus' final request was that believers <em>behold</em> His glory (<a href="https://www.biblegateway.com/passage/?search=John+17%3A24&version=WEB" target="_blank">John 17:24</a>). What does that hope mean to you personally?</div>
+</details>
+
+</section>
+```

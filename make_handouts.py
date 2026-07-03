@@ -11,8 +11,7 @@ LESSONS = [
     "03 - Jesus in Creation/jesus-in-creation.qmd",
     "04 - Jesus aa life and light/jesus-life-light.qmd",
     "05 - Jesus in Salvation/jesus-in-salvation.qmd",
-    "05 - Jesus grace truth and the law/grace-truth-law.qmd",
-    "06 - Jesus and the Holy Spirit/holy-spirit.qmd",
+    "06 - Jesus grace truth and the law/grace-truth-law.qmd",
     "07 - Jesus the Only way to the Father/only-way.qmd",
     "08 - Jesus priestly prayer/priestly-prayer.qmd",
 ]

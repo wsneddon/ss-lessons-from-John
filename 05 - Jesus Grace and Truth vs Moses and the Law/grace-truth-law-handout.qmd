@@ -1,0 +1,324 @@
+---
+title: "VI. Jesus: Grace and Truth vs. Moses and the Law"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+    pdf-engine: xelatex
+mainfont: "Arial"
+---
+
+# VI. Jesus: Grace and Truth vs. Moses and the Law
+
+[Opening Song](https://www.youtube.com/watch?v=j0ymWzHMGwo)
+
+[Overview Video](https://bibleproject.com/videos/law/)
+
+
+## Opening Passage — John 1:17
+ [John 1:17](https://www.biblegateway.com/passage/?search=John+1%3A17&version=WEB) — "For the law was given through Moses. Grace and truth were realized through Jesus Christ."
+
+
+## A. Different Christian Views on the Law
+
+### Reformed / Covenant Theology
+ • Moral law continues; ceremonial and civil laws fulfilled in Christ
+
+
+### Eastern Orthodox View
+ • The whole Mosaic Law is fulfilled and transformed in Christ
+
+ • Rejects the Western division of moral, ceremonial, and civil law
+
+ • Focuses on the Law as preparation for the Gospel and the path to theosis (becoming like God)
+
+ • Emphasizes mercy, healing, and participation in Christ over strict legal categories
+
+
+### Dispensational View
+ • Church is not under Mosaic Law
+
+ • Believers are under the Law of Christ
+
+
+### New Covenant Theology
+ • Old Covenant obsolete; Christ's teachings govern believers
+
+
+### Messianic Jewish Perspectives
+ • Jewish believers may continue Torah practices voluntarily
+
+ • Salvation remains through Christ alone
+
+
+## B. The Pharisees and the Law
+
+### Old Testament foundation — Torah as covenant life
+ a. [Deuteronomy 6:4–9](https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=WEB) — The Shema: love God with heart, soul, and might; teach the Torah diligently. The Law as the core of covenant love and daily instruction.
+
+ b. [Deuteronomy 4:5–8](https://www.biblegateway.com/passage/?search=Deuteronomy+4%3A5-8&version=WEB) — The Law as wisdom, justice, and distinctiveness among the nations.
+
+ c. [Joshua 1:8](https://www.biblegateway.com/passage/?search=Joshua+1%3A8&version=WEB) — "This Book of the Law shall not depart from your mouth… meditate on it day and night." Meditation and obedience were central.
+
+
+### Gezerot — fences around the Torah
+ • Rabbinic decrees enacted to prevent accidental violations of biblical commands
+
+ • Pharisees saw them as harmonious extensions that protected and fulfilled the Torah
+
+
+#### — The 39 Melakhot
+  The Order of Bread (Agricultural / Food Preparation)
+
+  1. [Ploughing](https://en.wikipedia.org/wiki/39_Melakhot#Ploughing)
+
+  2. [Planting](https://en.wikipedia.org/wiki/39_Melakhot#Planting)
+
+  3. [Reaping](https://en.wikipedia.org/wiki/39_Melakhot#Reaping)
+
+  4. [Gathering](https://en.wikipedia.org/wiki/39_Melakhot#Gathering)
+
+  5. [Threshing / Extraction](https://en.wikipedia.org/wiki/39_Melakhot#Threshing_.2F_extraction)
+
+  6. [Winnowing](https://en.wikipedia.org/wiki/39_Melakhot#Winnowing)
+
+  7. [Sorting / Purification](https://en.wikipedia.org/wiki/39_Melakhot#Sorting_.2F_purification)
+
+  8. [Grinding](https://en.wikipedia.org/wiki/39_Melakhot#Grinding)
+
+  9. [Sifting](https://en.wikipedia.org/wiki/39_Melakhot#Sifting)
+
+  10. [Kneading](https://en.wikipedia.org/wiki/39_Melakhot#Kneading)
+
+  11. [Baking / Cooking](https://en.wikipedia.org/wiki/39_Melakhot#Baking_.2F_Cooking)
+
+  The Order of Fabric / Garments
+
+  12. [Shearing](https://en.wikipedia.org/wiki/39_Melakhot#Shearing)
+
+  13. [Scouring / Laundering](https://en.wikipedia.org/wiki/39_Melakhot#Scouring_.2F_Laundering)
+
+  14. [Combing](https://en.wikipedia.org/wiki/39_Melakhot#Combing)
+
+  15. [Dyeing](https://en.wikipedia.org/wiki/39_Melakhot#Dyeing)
+
+  16. [Spinning](https://en.wikipedia.org/wiki/39_Melakhot#Spinning)
+
+  17. [Warping](https://en.wikipedia.org/wiki/39_Melakhot#Warping)
+
+  18. [Making two loops / Threading heddles](https://en.wikipedia.org/wiki/39_Melakhot#Making_two_loops_.2F_threading_heddles)
+
+  19. [Weaving](https://en.wikipedia.org/wiki/39_Melakhot#Weaving)
+
+  20. [Separating two threads](https://en.wikipedia.org/wiki/39_Melakhot#Separating_two_threads)
+
+  21. [Tying](https://en.wikipedia.org/wiki/39_Melakhot#Tying)
+
+  22. [Untying](https://en.wikipedia.org/wiki/39_Melakhot#Untying)
+
+  23. [Sewing](https://en.wikipedia.org/wiki/39_Melakhot#Sewing)
+
+  24. [Tearing](https://en.wikipedia.org/wiki/39_Melakhot#Tearing)
+
+  The Order of Hides / Leather
+
+  25. [Trapping](https://en.wikipedia.org/wiki/39_Melakhot#Trapping)
+
+  26. [Killing](https://en.wikipedia.org/wiki/39_Melakhot#Killing)
+
+  27. [Flaying / Skinning](https://en.wikipedia.org/wiki/39_Melakhot#Flaying_.2F_Skinning)
+
+  28. [Curing / Preservation](https://en.wikipedia.org/wiki/39_Melakhot#Curing_.2F_Preservation)
+
+  29. [Smoothing](https://en.wikipedia.org/wiki/39_Melakhot#Smoothing)
+
+  30. [Scoring](https://en.wikipedia.org/wiki/39_Melakhot#Scoring)
+
+  31. [Measured Cutting](https://en.wikipedia.org/wiki/39_Melakhot#Measured_cutting)
+
+  The Order of Construction
+
+  32. [Writing](https://en.wikipedia.org/wiki/39_Melakhot#Writing)
+
+  33. [Erasing](https://en.wikipedia.org/wiki/39_Melakhot#Erasing)
+
+  34. [Construction](https://en.wikipedia.org/wiki/39_Melakhot#Construction)
+
+  35. [Demolition](https://en.wikipedia.org/wiki/39_Melakhot#Demolition)
+
+  36. [Final Completion / Fine-tuning / Perfecting](https://en.wikipedia.org/wiki/39_Melakhot#Final_Completion_.2F_Fine-tuning_.2F_Perfecting)
+
+  37. [Ignition (Kindling)](https://en.wikipedia.org/wiki/39_Melakhot#Ignition)
+
+  38. [Extinguishing](https://en.wikipedia.org/wiki/39_Melakhot#Extinguishing)
+
+  39. [Transferring between domains (Carrying)](https://en.wikipedia.org/wiki/39_Melakhot#Transferring_between_domains)
+
+ • Categories of prohibited Sabbath work derived from activities used to build the Tabernacle; gezerot expanded these into detailed practical rules (e.g., healing, carrying objects) that governed daily observance — not written down until the 2nd century (Mishnah) but existing mostly as oral tradition in Jesus' day
+
+
+### Jesus disputes the Pharisees
+ a. [Mark 3:1–6](https://www.biblegateway.com/passage/?search=Mark+3%3A1-6&version=WEB); [Luke 13:10–17](https://www.biblegateway.com/passage/?search=Luke+13%3A10-17&version=WEB) — Pharisees classified healing as prohibited "work" (one of the 39 melachot). Jesus repeatedly healed on the Sabbath.
+
+ b. [Mark 2:27–28](https://www.biblegateway.com/passage/?search=Mark+2%3A27-28&version=WEB) — "The Sabbath was made for man, not man for the Sabbath. The Son of Man is lord even of the Sabbath." His healings exposed how gezerot prioritized rigid rules over mercy.
+
+ c. [John 5:1–18](https://www.biblegateway.com/passage/?search=John+5%3A1-18&version=WEB) — Jesus healed a man paralyzed 38 years and told him to carry his mat. Leaders objected not to the healing but to the "work" of carrying the mat — a violation of gezerot about carrying objects on the Sabbath.
+
+ d. [John 5:17](https://www.biblegateway.com/passage/?search=John+5%3A17&version=WEB) — Jesus defended His actions: "My Father is working until now, and I am working." The tradition protected the Sabbath's external form but missed its deeper purpose and the opportunity to celebrate God's mercy.
+
+ e. [Mark 7:1–13](https://www.biblegateway.com/passage/?search=Mark+7%3A1-13&version=WEB); [Matthew 15:1–9](https://www.biblegateway.com/passage/?search=Matthew+15%3A1-9&version=WEB) — Jesus debates "the tradition of the elders": some gezerot nullified the Torah's intent (e.g., the Corban vow), while Pharisees saw them as upholding it.
+
+ f. [Matthew 23:23–24](https://www.biblegateway.com/passage/?search=Matthew+23%3A23-24&version=WEB) — Jesus rebukes placing ritual minutiae above compassion, justice, and the weightier matters of the Law: "You tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness."
+
+
+## C. The Law: Its Purpose and Limits
+
+### The Law revealed sin but could not save
+ a. [Romans 3:20](https://www.biblegateway.com/passage/?search=Romans+3%3A20&version=WEB) — "For through the law comes the knowledge of sin."
+
+ b. [Romans 7:7](https://www.biblegateway.com/passage/?search=Romans+7%3A7&version=WEB), [7:12](https://www.biblegateway.com/passage/?search=Romans+7%3A12&version=WEB) — "I would not have known sin except through the law." Yet "the law is holy, and the commandment is holy and righteous and good."
+
+ c. [Galatians 3:10–11](https://www.biblegateway.com/passage/?search=Galatians+3%3A10-11&version=WEB) — Those relying on works of the law are under a curse; no one is justified by the law.
+
+ d. [Galatians 3:21](https://www.biblegateway.com/passage/?search=Galatians+3%3A21&version=WEB) — "If a law had been given which could make alive, most certainly righteousness would have been of the law."
+
+
+### The Law was temporary and preparatory
+ a. [Galatians 3:13](https://www.biblegateway.com/passage/?search=Galatians+3%3A13&version=WEB), [3:15–17](https://www.biblegateway.com/passage/?search=Galatians+3%3A15-17&version=WEB) — "Christ redeemed us from the curse of the law." The Law, given 430 years after Abraham, cannot annul the covenant of promise; the inheritance still comes through promise, not law.
+
+ b. [Galatians 3:23–25](https://www.biblegateway.com/passage/?search=Galatians+3%3A23-25&version=WEB) — "Before faith came, we were kept in custody under the law… The law has become our tutor [paidagōgos[https://www.biblestudytools.com/lexicons/greek/nas/paidagogos.html](https://www.biblestudytools.com/lexicons/greek/nas/paidagogos.html)] to bring us to Christ… But now that faith has come, we are no longer under a tutor."
+
+ c. [Galatians 4:4–5](https://www.biblegateway.com/passage/?search=Galatians+4%3A4-5&version=WEB) — God sent His Son to redeem those under the law.
+
+ d. [Romans 10:4](https://www.biblegateway.com/passage/?search=Romans+10%3A4&version=WEB) — "Christ is the end [goal/fulfillment] of the law for righteousness to everyone who believes."
+
+ e. [Galatians 5:1](https://www.biblegateway.com/passage/?search=Galatians+5%3A1&version=WEB) — "For freedom Christ has set us free."
+
+
+## D. Salvation Is by Grace Through Faith
+
+### Children of God by new birth
+ a. [John 1:12–13](https://www.biblegateway.com/passage/?search=John+1%3A12-13&version=WEB) — "To all who received him… he gave the right to become God's children… who were born… of God."
+
+ b. [John 3:3–8](https://www.biblegateway.com/passage/?search=John+3%3A3-8&version=WEB) — Born again of the Spirit.
+
+
+### Salvation is a gift, not earned
+ a. [Ephesians 2:8–9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=WEB) — "For by grace you have been saved through faith… not of works."
+
+ b. [Titus 3:5](https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=WEB) — "He saved us — not by works of righteousness… but according to his mercy — through the washing of regeneration and renewing by the Holy Spirit."
+
+ c. [Galatians 2:16](https://www.biblegateway.com/passage/?search=Galatians+2%3A16&version=WEB); [Romans 3:28](https://www.biblegateway.com/passage/?search=Romans+3%3A28&version=WEB) — Justified by faith apart from works of the law.
+
+
+## E. Jesus' Encounters: The Law Is Not Enough — Follow Me
+
+### The Rich Young Ruler
+ a. [Matthew 19:17](https://www.biblegateway.com/passage/?search=Matthew+19%3A17&version=WEB) — "If you would enter life, keep the commandments." The young man claimed to have kept them all.
+
+ b. [Matthew 19:21–26](https://www.biblegateway.com/passage/?search=Matthew+19%3A21-26&version=WEB) — "If you would be perfect, go, sell what you possess and give to the poor… and come, follow me." He went away sorrowful. "It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God." "With man this is impossible, but with God all things are possible."
+
+  • External commandment-keeping cannot save; wealth had become his idol; true life requires surrendering everything to follow Jesus.
+
+
+### Other encounters
+ a. [Mark 12:28–34](https://www.biblegateway.com/passage/?search=Mark+12%3A28-34&version=WEB) — The Scribe affirmed love for God and neighbor; Jesus said he was "not far from the kingdom of God" — sincere agreement with the Law still falls short of entering through Christ.
+
+ b. [Matthew 16:24](https://www.biblegateway.com/passage/?search=Matthew+16%3A24&version=WEB); [Luke 9:23](https://www.biblegateway.com/passage/?search=Luke+9%3A23&version=WEB) — "Deny yourself, take up your cross, and follow me." Discipleship above all religious duty.
+
+ c. [John 14:6](https://www.biblegateway.com/passage/?search=John+14%3A6&version=WEB) — "I am the way, the truth, and the life." The Law is good but cannot give life; Jesus is the way.
+
+
+## F. Christ Fulfilled and Replaced the Law
+
+### Jesus fulfilled the Law
+ a. [Matthew 5:17](https://www.biblegateway.com/passage/?search=Matthew+5%3A17&version=WEB) — "I didn't come to destroy, but to fulfill."
+
+
+### The shadow and the reality
+ a. [Hebrews 10:1](https://www.biblegateway.com/passage/?search=Hebrews+10%3A1&version=WEB) — "The law, having a shadow of the good things to come, not the very image of the things…"
+
+ b. [Hebrews 10:1–14](https://www.biblegateway.com/passage/?search=Hebrews+10%3A1-14&version=WEB) — Christ as the final sacrifice accomplishing what the Old Covenant pointed toward.
+
+ c. [Colossians 2:16–17](https://www.biblegateway.com/passage/?search=Colossians+2%3A16-17&version=WEB) — Festivals, new moons, Sabbaths are "a shadow of things to come; the body is Christ."
+
+ d. [Hebrews 9:11–15](https://www.biblegateway.com/passage/?search=Hebrews+9%3A11-15&version=WEB) — Christ as mediator of a better covenant.
+
+
+### Released from the Law — the marriage illustration (Romans 7)
+ a. [Romans 7:2–6](https://www.biblegateway.com/passage/?search=Romans+7%3A2-6&version=WEB) — "A married woman is bound by law to her husband while he lives, but if the husband dies, she is discharged… You also were made dead to the law through the body of Christ… Now we have been discharged from the law… we serve in newness of the Spirit."
+
+ b. [Romans 8:1](https://www.biblegateway.com/passage/?search=Romans+8%3A1&version=WEB) — "There is now no condemnation to those who are in Christ Jesus."
+
+ c. [Romans 6:14–15](https://www.biblegateway.com/passage/?search=Romans+6%3A14-15&version=WEB) — "You are not under law but under grace." "Shall we sin because we are not under law but under grace? God forbid."
+
+
+### The letter kills — the Spirit gives life
+ a. [2 Corinthians 3:6](https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A6&version=WEB) — "The letter kills, but the Spirit gives life."
+
+ b. [Romans 8:2–4](https://www.biblegateway.com/passage/?search=Romans+8%3A2-4&version=WEB) — "The law of the Spirit of life in Christ Jesus made me free from the law of sin and of death… that the ordinance of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."
+
+ c. [Ezekiel 36:26–27](https://www.biblegateway.com/passage/?search=Ezekiel+36%3A26-27&version=WEB) — New heart and Spirit causing obedience.
+
+ d. [Galatians 5:22–23](https://www.biblegateway.com/passage/?search=Galatians+5%3A22-23&version=WEB) — Fruit of the Spirit.
+
+
+## G. Circumcision, Food Laws, and Sabbath
+
+### Circumcision
+ a. [Acts 15:10–11](https://www.biblegateway.com/passage/?search=Acts+15%3A10-11&version=WEB) — Peter: "Why do you tempt God by putting a yoke on the neck of the disciples which neither our fathers nor we were able to bear? But we believe that we are saved through the grace of the Lord Jesus, in the same way as they are."
+
+ b. [Acts 15:19–20](https://www.biblegateway.com/passage/?search=Acts+15%3A19-20&version=WEB) — The Jerusalem Council's decision: Gentiles are not placed under the Mosaic Law; only minimal practical guidelines given.
+
+ c. [Galatians 5:2–4](https://www.biblegateway.com/passage/?search=Galatians+5%3A2-4&version=WEB) — "If you receive circumcision, Christ will profit you nothing… You are severed from Christ, you who would be justified by the law."
+
+ d. [Galatians 6:15](https://www.biblegateway.com/passage/?search=Galatians+6%3A15&version=WEB) — "Neither circumcision counts for anything, nor uncircumcision, but a new creation."
+
+ e. [Philippians 3:3](https://www.biblegateway.com/passage/?search=Philippians+3%3A3&version=WEB) — True circumcision is of the heart by the Spirit.
+
+
+### Food laws
+ a. [Mark 7:18–19](https://www.biblegateway.com/passage/?search=Mark+7%3A18-19&version=WEB) — Jesus declared all foods clean.
+
+ b. [Acts 10:15](https://www.biblegateway.com/passage/?search=Acts+10%3A15&version=WEB) — "What God has cleansed, you must not call unclean."
+
+ c. [Acts 15:28–29](https://www.biblegateway.com/passage/?search=Acts+15%3A28-29&version=WEB) — Law for Gentile believers: the Jerusalem Council required only that Gentiles abstain from food sacrificed to idols, from blood, from strangled animals, and from sexual immorality — the full Mosaic food code was not imposed.
+
+ d. [Romans 14:14](https://www.biblegateway.com/passage/?search=Romans+14%3A14&version=WEB) — "Nothing is unclean of itself."
+
+ e. [1 Timothy 4:4–5](https://www.biblegateway.com/passage/?search=1+Timothy+4%3A4-5&version=WEB) — "Everything created by God is good… nothing is to be rejected if received with thanksgiving."
+
+
+### Sabbath and holy days
+ a. [Colossians 2:16–17](https://www.biblegateway.com/passage/?search=Colossians+2%3A16-17&version=WEB) — "Let no one judge you… with respect to a feast day, or a new moon, or a Sabbath day… a shadow of things to come; the body is Christ."
+
+ b. [Romans 14:5](https://www.biblegateway.com/passage/?search=Romans+14%3A5&version=WEB) — "One person esteems one day as more sacred than another; another esteems every day alike."
+
+ c. [Acts 20:7](https://www.biblegateway.com/passage/?search=Acts+20%3A7&version=WEB); [1 Corinthians 16:2](https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A2&version=WEB) — Believers gathered on the first day of the week.
+
+ d. [Hebrews 4:9–10](https://www.biblegateway.com/passage/?search=Hebrews+4%3A9-10&version=WEB) — A Sabbath rest remains, fulfilled in Christ.
+
+
+### Early Church — Lord's Day Practice
+  • Didache (late 1st/early 2nd c.) — "But every Lord's day gather yourselves together, and break bread, and give thanksgiving… that your sacrifice may be pure."
+
+  • Letter of Barnabas (c. 70–130s AD) — "We keep the eighth day [Sunday] with joyfulness, the day also on which Jesus rose again from the dead."
+
+  • Ignatius of Antioch (c. 110 AD, Letter to the Magnesians) — Christians "no longer observing the Sabbath, but living in the observance of the Lord's Day, on which also our life has sprung up again by Him and by His death."
+
+  • Justin Martyr (c. 150–155 AD, First Apology 67) — "On the day called Sunday, all who live in cities or in the country gather together… Sunday is the day on which we all hold our common assembly, because it is the first day on which God made the world; and Jesus Christ our Savior on the same day rose from the dead."
+
+  • Sunday gathering for Word, prayer, and Eucharist was the norm across late 1st–mid-2nd century sources. The focus was resurrection theology: Christ rose on the first day, fulfilling and transcending the old covenant.
+
+
+## H. Discussion Questions
+1. What was the purpose of the Law, and how does understanding that change how you read the Old Testament?
+
+2. What does it mean practically to be "not under law but under grace"?
+
+3. How does the Holy Spirit fulfill what the Law could not?
+
+4. How should Christians respond to those who insist on keeping Mosaic practices (circumcision, dietary laws, Sabbath)?
+
