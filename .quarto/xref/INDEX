@@ -1,340 +1,59 @@
 {
   "course-outline.qmd": {
-    "course-outline.html": "e17218a2"
-  },
-  "01-Intro/introduction.qmd": {
-    "introduction.html": "926bc5c0"
-  },
-  "02 - Jesus as God/jesus-as-god.qmd": {
-    "jesus-as-god.html": "d849143c"
-  },
-  "john-presentation.qmd": {
-    "john-presentation.html": "f1f1f54e"
-  },
-  "05 - Jesus in Salvation/jesus-in-salvation.qmd": {
-    "jesus-in-salvation.html": "f2327837"
-  },
-  "06 - Jesus and the Holy Spirit/holy-spirit.qmd": {
-    "holy-spirit.html": "8f2d9c17"
-  },
-  "03 - Jesus in Creation/jesus-in-creation.qmd": {
-    "jesus-in-creation.html": "181e0deb"
-  },
-  "07 - Jesus the Only way to the Father/only-way.qmd": {
-    "only-way.html": "860a15c9"
-  },
-  "04 - Jesus aa life and light/jesus-life-light.qmd": {
-    "jesus-life-light.html": "02f59f2a"
-  },
-  "05 - Jesus grace truth and the law/grace-truth-law.qmd": {
-    "grace-truth-law.html": "daf9ea5d"
-  },
-  "08 - Jesus priestly prayer/priestly-prayer.qmd": {
-    "priestly-prayer.html": "53d7cfa8"
-  },
-  "index.qmd": {
-    "index.html": "b8e3c590"
+    "course-outline.html": "70928417"
   },
   "preamble/preamble.qmd": {
-    "preamble.html": "cf6ca908"
-  },
-  "03 - Jesus in Creation/jesus-in-creation_files/six day creation.md": {
-    "six day creation.html": "19b01aa1"
-  },
-  "03 - Jesus in Creation/jesus-in-creation_files/outline.md": {
-    "outline.html": "5d5835ff"
-  },
-  "03 - Jesus in Creation/jesus-in-creation_files/people in the beginning.md": {
-    "people in the beginning.html": "0ac5661d"
-  },
-  "03 - Jesus in Creation/jesus-in-creation_files/jesus-in-creation.qmd": {
-    "jesus-in-creation.html": "43a90272"
-  },
-  "03 - Jesus in Creation/jesus-in-creation_files/Jesus in Creation.md": {
-    "Jesus in Creation.html": "746674b2"
-  },
-  "05 - Jesus in Salvation/jesus-in-salvation-notes.qmd": {
-    "jesus-in-salvation-notes.html": "e6c0cde4"
-  },
-  "preamble/preamble-notes.qmd": {
-    "preamble-notes.html": "428ede77"
-  },
-  "06 - Jesus and the Holy Spirit/holy-spirit-notes.qmd": {
-    "holy-spirit-notes.html": "5610e625"
-  },
-  "03 - Jesus in Creation/jesus-in-creation-notes.qmd": {
-    "jesus-in-creation-notes.html": "ca5e5d3f"
-  },
-  "01-Intro/introduction-notes.qmd": {
-    "introduction-notes.html": "5b2cb534"
-  },
-  "07 - Jesus the Only way to the Father/only-way-notes.qmd": {
-    "only-way-notes.html": "d84528f4"
-  },
-  "04 - Jesus aa life and light/jesus-life-light-notes.qmd": {
-    "jesus-life-light-notes.html": "5fd31ea9"
-  },
-  "02 - Jesus as God/jesus-as-god-notes.qmd": {
-    "jesus-as-god-notes.html": "d0b8d8f8"
-  },
-  "05 - Jesus grace truth and the law/grace-truth-law-notes.qmd": {
-    "grace-truth-law-notes.html": "b89e2cc0"
-  },
-  "08 - Jesus priestly prayer/priestly-prayer-notes.qmd": {
-    "priestly-prayer-notes.html": "6c7e8a9b"
-  },
-  "06 - Jesus and the Holy Spirit/holy-spirit_files/John distinctive HS.md": {
-    "John distinctive HS.html": "7ceaaf7c",
-    "John-distinctive-HS.tex": "6c06a80f"
-  },
-  "01-Intro/introduction_files/John7Missing.md": {
-    "John7Missing.html": "607ae51e",
-    "John7Missing.tex": "f77c8a2a"
-  },
-  "01-Intro/introduction-handout.qmd": {
-    "introduction-handout.tex": "d145c74c"
-  },
-  "05 - Jesus in Salvation/jesus-in-salvation-handout.qmd": {
-    "jesus-in-salvation-handout.tex": "01e15a69"
-  },
-  "06 - Jesus and the Holy Spirit/holy-spirit-handout.qmd": {
-    "holy-spirit-handout.tex": "91eaf5c4"
-  },
-  "03 - Jesus in Creation/jesus-in-creation-handout.qmd": {
-    "jesus-in-creation-handout.tex": "0a019a6c"
-  },
-  "07 - Jesus the Only way to the Father/only-way-handout.qmd": {
-    "only-way-handout.tex": "db6632f8"
-  },
-  "04 - Jesus aa life and light/jesus-life-light-handout.qmd": {
-    "jesus-life-light-handout.tex": "844f5419"
-  },
-  "02 - Jesus as God/jesus-as-god-handout.qmd": {
-    "jesus-as-god-handout.tex": "24753740"
-  },
-  "05 - Jesus grace truth and the law/grace-truth-law-handout.qmd": {
-    "grace-truth-law-handout.tex": "5b294ec0"
-  },
-  "08 - Jesus priestly prayer/priestly-prayer-handout.qmd": {
-    "priestly-prayer-handout.tex": "e62429ac"
-  },
-  "03 - Jesus in Creation/christians Age of the Earth.md": {
-    "christians Age of the Earth.html": "49f5e2f8"
-  },
-  "02 - Jesus as God/seedOfaWoman.md": {
-    "seedOfaWoman.html": "29fe0170"
-  },
-  "02 - Jesus as God/1John4.1 implications.md": {
-    "1John4.1 implications.html": "cc3ddacd"
-  },
-  "04 - Jesus aa life and light/chat.md": {
-    "chat.html": "74ff3a18"
-  },
-  "04 - Jesus aa life and light/grok.md": {
-    "grok.html": "9ed8f23e"
-  },
-  "04 - Jesus aa life and light/light-and-life.md": {
-    "light-and-life.html": "976b8fb8"
-  },
-  "03 - Jesus in Creation/GodsHonesty.md": {
-    "GodsHonesty.html": "1ce7d6ec"
-  },
-  "03 - Jesus in Creation/youngEarth.md": {
-    "youngEarth.html": "5a3047b1"
-  },
-  "03 - Jesus in Creation/jesus-in-creation_files/GapTheory.md": {
-    "GapTheory.html": "9e1676ee"
-  },
-  "03 - Jesus in Creation/james saves.md": {
-    "james saves.html": "3760e9da"
-  },
-  "07 - Jesus and the Holy Spirit/holy-spirit-handout.qmd": {
-    "holy-spirit-handout.tex": "43bee0f2"
-  },
-  "07 - Jesus and the Holy Spirit/holy-spirit_files/John distinctive HS.md": {
-    "John distinctive HS.html": "e37f3d7b"
-  },
-  "07 - Jesus and the Holy Spirit/holy-spirit.qmd": {
-    "holy-spirit.html": "a9852c20"
-  },
-  "08 - Jesus the Only way to the Father/only-way.qmd": {
-    "only-way.html": "232652af"
-  },
-  "08 - Jesus the Only way to the Father/only-way-handout.qmd": {
-    "only-way-handout.tex": "fcff898e"
-  },
-  "09 - Jesus priestly prayer/priestly-prayer-handout.qmd": {
-    "priestly-prayer-handout.tex": "d09fefe1"
-  },
-  "09 - Jesus priestly prayer/priestly-prayer.qmd": {
-    "priestly-prayer.html": "2b02e97b"
-  },
-  "06 - Jesus grace truth and the law/grace-truth-law-handout.qmd": {
-    "grace-truth-law-handout.tex": "2d5b74a0"
-  },
-  "06 - Jesus grace truth and the law/grace-truth-law.qmd": {
-    "grace-truth-law.html": "573a8096"
-  },
-  "07 - Jesus the Only way to the Father/**Jesus: The Only Way to the Father**.md": {
-    "**Jesus: The Only Way to the Father**.html": "f8590d29"
-  },
-  "08 - Jesus priestly prayer/gloryGrok.md": {
-    "gloryGrok.html": "75320fba"
-  },
-  "08 - Jesus priestly prayer/ch17outline.md": {
-    "ch17outline.html": "65b6b857"
-  },
-  "08 - Jesus priestly prayer/oneness.md": {
-    "oneness.html": "be185c0c"
-  },
-  "06 - Jesus grace truth and the law/atheistOldTestament.md": {
-    "atheistOldTestament.html": "e48950f0"
-  },
-  "06 - Jesus grace truth and the law/jews view.md": {
-    "jews view.html": "d1ee2152"
-  },
-  "03 - Jesus as Life and Light of Men/chat.md": {
-    "chat.html": "1ab22636"
+    "preamble.html": "24e3402a"
   },
   "03 - Jesus as Life and Light of Men/jesus-life-light-handout.qmd": {
-    "jesus-life-light-handout.tex": "0222e16e"
-  },
-  "03 - Jesus as Life and Light of Men/light-and-life.md": {
-    "light-and-life.html": "32ab2a52"
+    "jesus-life-light-handout.tex": "dbcfddc5"
   },
   "03 - Jesus as Life and Light of Men/jesus-life-light.qmd": {
-    "jesus-life-light.html": "7d5ea4a9"
-  },
-  "03 - Jesus as Life and Light of Men/grok.md": {
-    "grok.html": "640d2abd"
+    "jesus-life-light.html": "0def6fcc"
   },
   "02 - Jesus in Creation/jesus-in-creation-handout.qmd": {
-    "jesus-in-creation-handout.tex": "2ea5416c"
-  },
-  "02 - Jesus in Creation/james saves.md": {
-    "james saves.html": "35365f1f"
-  },
-  "02 - Jesus in Creation/jesus-in-creation_files/six day creation.md": {
-    "six day creation.html": "6671d359"
-  },
-  "02 - Jesus in Creation/jesus-in-creation_files/GapTheory.md": {
-    "GapTheory.html": "75c5ed06"
-  },
-  "02 - Jesus in Creation/jesus-in-creation_files/outline.md": {
-    "outline.html": "a3a5d728"
-  },
-  "02 - Jesus in Creation/jesus-in-creation_files/people in the beginning.md": {
-    "people in the beginning.html": "b64359d8"
-  },
-  "02 - Jesus in Creation/jesus-in-creation_files/jesus-in-creation.qmd": {
-    "jesus-in-creation.html": "4272fe45"
-  },
-  "02 - Jesus in Creation/jesus-in-creation_files/Jesus in Creation.md": {
-    "Jesus in Creation.html": "15defe40"
+    "jesus-in-creation-handout.tex": "2674157d"
   },
   "02 - Jesus in Creation/jesus-in-creation.qmd": {
-    "jesus-in-creation.html": "5eb99012"
+    "jesus-in-creation.html": "4ef8ae74"
   },
-  "02 - Jesus in Creation/christians Age of the Earth.md": {
-    "christians Age of the Earth.html": "4fcc04ae"
-  },
-  "02 - Jesus in Creation/GodsHonesty.md": {
-    "GodsHonesty.html": "ff5d6f12"
-  },
-  "02 - Jesus in Creation/youngEarth.md": {
-    "youngEarth.html": "68c1ea02"
+  "index.qmd": {
+    "index.html": "b6d5376c"
   },
   "05 - Jesus Grace and Truth vs Moses and the Law/grace-truth-law-handout.qmd": {
-    "grace-truth-law-handout.tex": "f5479c67"
+    "grace-truth-law-handout.tex": "305b2ab6"
   },
   "05 - Jesus Grace and Truth vs Moses and the Law/grace-truth-law.qmd": {
-    "grace-truth-law.html": "03f87a2e"
-  },
-  "05 - Jesus Grace and Truth vs Moses and the Law/jews view.md": {
-    "jews view.html": "379fbe04"
-  },
-  "05 - Jesus Grace and Truth vs Moses and the Law/atheistOldTestament.md": {
-    "atheistOldTestament.html": "ea067109"
+    "grace-truth-law.html": "01a1700e"
   },
   "04 - Jesus in Salvation/jesus-in-salvation.qmd": {
-    "jesus-in-salvation.html": "d6c826a8"
+    "jesus-in-salvation.html": "3833bb69"
   },
   "04 - Jesus in Salvation/jesus-in-salvation-handout.qmd": {
-    "jesus-in-salvation-handout.tex": "f91bdd2b"
+    "jesus-in-salvation-handout.tex": "c619938e"
   },
   "01 - Jesus as God/jesus-as-god-handout.qmd": {
-    "jesus-as-god-handout.tex": "74001233"
-  },
-  "01 - Jesus as God/seedOfaWoman.md": {
-    "seedOfaWoman.html": "9a4e52f1"
-  },
-  "01 - Jesus as God/1John4.1 implications.md": {
-    "1John4.1 implications.html": "b8293a47"
+    "jesus-as-god-handout.tex": "6373d486"
   },
   "01 - Jesus as God/jesus-as-god.qmd": {
-    "jesus-as-god.html": "7a240ea6"
-  },
-  "00 - Intro/introduction_files/John7Missing.md": {
-    "John7Missing.html": "a4ea8b86"
+    "jesus-as-god.html": "88929944"
   },
   "00 - Intro/introduction.qmd": {
-    "introduction.html": "ac4a738a"
+    "introduction.html": "38a157a8"
   },
   "00 - Intro/introduction-handout.qmd": {
-    "introduction-handout.tex": "63372f33"
+    "introduction-handout.tex": "d068a926"
   },
   "07 - Jesus Priestly Prayer/priestly-prayer-handout.qmd": {
-    "priestly-prayer-handout.tex": "24304258"
+    "priestly-prayer-handout.tex": "263a17b9"
   },
   "07 - Jesus Priestly Prayer/priestly-prayer.qmd": {
-    "priestly-prayer.html": "d1aacd0c"
-  },
-  "07 - Jesus Priestly Prayer/gloryGrok.md": {
-    "gloryGrok.html": "6fdb46f4"
-  },
-  "07 - Jesus Priestly Prayer/ch17outline.md": {
-    "ch17outline.html": "c2ed1221"
-  },
-  "07 - Jesus Priestly Prayer/oneness.md": {
-    "oneness.html": "dc5e5092"
+    "priestly-prayer.html": "fd425016"
   },
   "06 - Jesus the Only Way to the Father/only-way.qmd": {
-    "only-way.html": "db53ca8b"
+    "only-way.html": "2b5930f7"
   },
   "06 - Jesus the Only Way to the Father/only-way-handout.qmd": {
-    "only-way-handout.tex": "9c509d18"
-  },
-  "06 - Jesus the Only Way to the Father/**Jesus: The Only Way to the Father**.md": {
-    "**Jesus: The Only Way to the Father**.html": "fb9ca67d"
-  },
-  "06 - Jesus the Only Way to the Father/Eastern Religion Terms.md": {
-    "Eastern Religion Terms.html": "2d64b174"
-  },
-  "06 - Jesus the Only Way to the Father/chart slide 2.md": {
-    "chart slide 2.html": "3a29d6ae"
-  },
-  "06 - Jesus the Only Way to the Father/chart question and Key.md": {
-    "chart question and Key.html": "1294dba3"
-  },
-  "06 - Jesus the Only Way to the Father/chart slide one.md": {
-    "chart slide one.html": "45d8ea82"
-  },
-  "07 - Jesus Priestly Prayer/gloryGrok 2.md": {
-    "gloryGrok 2.html": "e3a9bc3c"
-  },
-  "07 - Jesus Priestly Prayer/| Faith        | Jesus                    | Ultima.md": {
-    "| Faith        | Jesus                    | Ultima.html": "9ff2d3e7"
-  },
-  "07 - Jesus Priestly Prayer/glory chat.md": {
-    "glory chat.html": "65984455"
-  },
-  "07 - Jesus Priestly Prayer/chart slide 2.md": {
-    "chart slide 2.html": "ee32791e"
-  },
-  "07 - Jesus Priestly Prayer/chart question and Key.md": {
-    "chart question and Key.html": "5a7ab258"
-  },
-  "07 - Jesus Priestly Prayer/Glory.md": {
-    "Glory.html": "3d9409a6"
+    "only-way-handout.tex": "5c4572d3"
   }
 }
